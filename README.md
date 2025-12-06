@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .MORTGAGE one-word domains still available to buy.
 
-This dataset contains 4,772 .MORTGAGE one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,768 .MORTGAGE one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.MORTGAGE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=mortgage-oneword-domains&utm_content=description.top) (4,772) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,7 +21,7 @@ If you want to search & filters the complete database of [.MORTGAGE one word dom
 
 | Domain              | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ------------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.mortgage        | available | 70       | 38%    | 3      |           |         |         |
+| aaa.mortgage        | premium   | 70       | 38%    | 3      |           |         |         |
 | aaron.mortgage      | available | 88       | 32%    | 5      |           |         |         |
 | abactinal.mortgage  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.mortgage      | available | 43       | 2%     | 5      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.MORTGAGE one word dom
 | abatic.mortgage     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.mortgage    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.mortgage   | available | 50       | 1%     | 8      |           |         |         |
-| abc.mortgage        | available | 102      | 41%    | 3      |           |         |         |
+| abc.mortgage        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.mortgage  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.mortgage  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.mortgage | available | 56       | 1%     | 10     |           |         |         |
