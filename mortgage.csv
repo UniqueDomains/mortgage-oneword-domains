@@ -500,6 +500,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2ccf73a1-90f5-4526-a9bc-0f0187f3f722,desktops.mortgage,available,14.99,,62,6,8,name.com,,
 2cdc465d-d674-4178-ac9d-854d23eab197,determination.mortgage,available,14.99,,70,9,13,name.com,,
 2ceeb366-334b-4901-9e92-a98654fe0c68,Catholics.mortgage,available,14.99,,58,8,9,name.com,,
+2d0cc119-1ae8-4937-93d1-99868c16c9ae,drivethru.mortgage,available,14.99,,76,10,10,name.com,,
 2d0dc95c-24b1-44e1-aaaa-e58ab6188139,chiefofstate.mortgage,available,14.99,,60,1,14,name.com,,
 2d14cd2c-32e0-491f-b497-c550b56d9e31,disobeying.mortgage,available,14.99,,46,1,10,name.com,,
 2d1fe0ae-1893-4f74-ad5c-6dfe93f3f875,manualworker.mortgage,available,14.99,,42,0,13,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 58a4460c-79d3-4dc0-9696-9d8ae0ca9cad,motorvehicles.mortgage,available,14.99,,42,1,14,name.com,,
 58bc1fd8-11f2-40a7-9686-0a8e0fabfb3c,stores.mortgage,premium,250,,62,20,6,name.com,,
 58c9d763-dcaf-4a65-90d2-2459d7dff51c,AcademyAward.mortgage,available,76.98,,76,1,13,namecheap,,
-58cb9408-0cab-450d-af28-f4831a995b12,Places.mortgage,available,76.98,,74,22,6,namecheap,,
