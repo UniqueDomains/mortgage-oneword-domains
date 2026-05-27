@@ -65,7 +65,7 @@ print(df.head())
 | domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | robots.mortgage       | available | $14.99    | —             | 62             | 47     | 6      | name.com  |
-| partners.mortgage     | premium   | $3,125    | —             | 61             | 32     | 8      | name.com  |
+| partners.mortgage     | premium   | $3,125    | —             | 61             | 31     | 8      | name.com  |
 | skills.mortgage       | available | $14.99    | —             | 58             | 47     | 6      | name.com  |
 | maps.mortgage         | premium   | $250      | —             | 56             | 31     | 4      | name.com  |
 | Ryan.mortgage         | available | $76.98    | —             | 60             | 44     | 4      | namecheap |
@@ -75,14 +75,14 @@ print(df.head())
 | neuroscience.mortgage | available | $14.99    | —             | 80             | 37     | 12     | name.com  |
 | designs.mortgage      | premium   | $3,125    | —             | 72             | 21     | 7      | name.com  |
 | aliens.mortgage       | available | $14.99    | —             | 56             | 35     | 6      | name.com  |
-| studios.mortgage      | premium   | $250      | —             | 54             | 21     | 7      | name.com  |
+| plans.mortgage        | premium   | $250      | —             | 60             | 21     | 5      | name.com  |
 | slots.mortgage        | available | $14.99    | —             | 49             | 31     | 5      | name.com  |
+| studios.mortgage      | premium   | $250      | —             | 54             | 21     | 7      | name.com  |
+| gods.mortgage         | available | $14.99    | —             | 72             | 29     | 4      | name.com  |
 | hills.mortgage        | premium   | $250      | —             | 65             | 20     | 5      | name.com  |
 | dogs.mortgage         | available | $14.99    | —             | 76             | 28     | 4      | name.com  |
 | stores.mortgage       | premium   | $250      | —             | 62             | 20     | 6      | name.com  |
 | forms.mortgage        | available | $14.99    | —             | 54             | 28     | 5      | name.com  |
-| plans.mortgage        | premium   | $250      | —             | 60             | 20     | 5      | name.com  |
-| gods.mortgage         | available | $14.99    | —             | 72             | 27     | 4      | name.com  |
 | clients.mortgage      | premium   | $242      | $242          | 58             | 20     | 7      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
