@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .mortgage one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 19,216 domains · **Median ask:** $36.81 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-08-24
+**Last updated:** 2026-08-25
 **Canonical page:** `https://unique.domains/domains/tld/mortgage`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| nothing.mortgage | available | $14.99    | —             | high           | low    | 7      | name.com         |
 | but.mortgage     | available | $14.99    | —             | high           | low    | 3      | name.com         |
 | apt.mortgage     | resell    | —         | —             | high           | low    | 3      | Dynadot Inc      |
 | aim.mortgage     | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
@@ -74,7 +75,7 @@ print(df.head())
 | lady.mortgage    | resell    | —         | —             | high           | low    | 4      | Sav.com, LLC     |
 | bar.mortgage     | premium   | $500      | —             | high           | low    | 3      | name.com         |
 | iii.mortgage     | available | $14.99    | $81.99        | low            | low    | 3      | name.com         |
-| virtual.mortgage | resell    | —         | —             | medium         | low    | 7      | GoDaddy.com, LLC |
+| virtual.mortgage | resell    | —         | —             | medium         | medium | 7      | GoDaddy.com, LLC |
 | day.mortgage     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
 | jar.mortgage     | available | $14.99    | —             | high           | low    | 3      | name.com         |
 | Fla.mortgage     | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
@@ -83,7 +84,6 @@ print(df.head())
 | mon.mortgage     | available | $14.99    | —             | high           | low    | 3      | name.com         |
 | oil.mortgage     | premium   | $123.75   | $123.75       | high           | low    | 3      | name.com         |
 | owe.mortgage     | available | $14.99    | —             | high           | low    | 3      | name.com         |
-| pre.mortgage     | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MORTGAGE One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MORTGAGE One-Word Domains*. Version 2026-08-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

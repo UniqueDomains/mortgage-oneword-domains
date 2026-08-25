@@ -174,7 +174,7 @@ fed625f2-4258-48f7-8a75-92d6677008d1,disregarded.mortgage,available,14.99,,mediu
 8329d641-b5a5-4be5-a6f7-f33c6370d6ce,pretzel.mortgage,available,14.99,,high,low,7,name.com,,
 21e204e7-a214-464b-a8b6-4e9802da8aac,babies.mortgage,available,14.99,,medium,low,6,name.com,,
 e07fff0c-1bbc-40c0-8c53-131b487a925b,produce.mortgage,available,14.99,,high,low,7,name.com,,
-006f3979-3e66-47db-82fb-04632d765c8f,breakfast.mortgage,available,14.99,,high,low,9,name.com,,
+006f3979-3e66-47db-82fb-04632d765c8f,breakfast.mortgage,available,14.99,81.99,medium,low,9,name.com,,
 d306f59d-3401-4eb7-8752-f00c12806b66,parkingspot.mortgage,available,14.99,,high,low,12,name.com,,
 04f4eefb-ed6b-40b8-90e3-6f03fbcff489,teastrainer.mortgage,available,14.99,,high,low,12,name.com,,
 e3f9758f-9236-4767-9179-137a9a024b2d,story.mortgage,available,14.99,,high,medium,5,name.com,,
@@ -476,7 +476,7 @@ a32b8f17-fceb-4164-ba14-699520f0f56e,metric.mortgage,available,14.99,,high,low,6
 c37d72af-0fa3-4ef9-a671-551757441cdf,entirely.mortgage,available,14.99,81.99,low,low,8,name.com,,
 f6fc2225-fef9-4444-8888-4a572a1359ee,heroic.mortgage,available,14.99,,high,low,6,name.com,,
 4f46a010-2cc3-4865-bc73-3d9d01090995,standback.mortgage,available,14.99,,low,low,10,name.com,,
-f103caa2-a52c-48ac-829a-96da68178959,virtual.mortgage,resell,,,medium,low,7,"GoDaddy.com, LLC",06/01/2026 19:03,06/01/2028 19:03
+f103caa2-a52c-48ac-829a-96da68178959,virtual.mortgage,resell,,,medium,medium,7,"GoDaddy.com, LLC",06/01/2026 19:03,06/01/2028 19:03
 37bf83d8-8d90-4041-bcfb-ffdafaf97768,fascinate.mortgage,available,14.99,,high,low,9,name.com,,
 d235a4f9-8635-4f85-b8e1-e37bed1f414c,mostly.mortgage,available,14.99,,medium,low,6,name.com,,
 e6124162-3417-4c8d-a76d-037a9f732c60,eaten.mortgage,available,14.99,,high,low,5,name.com,,
