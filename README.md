@@ -1,10 +1,10 @@
-# Available .MORTGAGE One-Word Domains (24,054)
+# Available .MORTGAGE One-Word Domains (24,642)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C054%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C642%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .mortgage one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **24,054 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,642 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,054 domains · **Median ask:** $68.02 · **High-demand under $2,500:** 5
+**Public extract:** 1,000 rows · **Live catalog:** 24,642 domains · **Median ask:** $68.52 · **High-demand under $2,500:** 5
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/mortgage`
@@ -78,11 +78,11 @@ print(df.head())
 | bob.mortgage   | available | $62.99    | $62.99        | high           | medium | 3      | namesilo     |
 | miss.mortgage  | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo     |
 | cao.mortgage   | available | $65.98    | $76.98        | high           | low    | 3      | namecheap    |
-| star.mortgage  | premium   | $128.70   | $128.70       | high           | medium | 4      | namecheap    |
+| reno.mortgage  | premium   | $260      | $260          | high           | low    | 4      | namecheap    |
 | din.mortgage   | available | $14.99    | $81.99        | medium         | low    | 3      | name.com     |
-| basic.mortgage | premium   | $520      | $520          | high           | low    | 5      | namecheap    |
+| star.mortgage  | premium   | $128.70   | $128.70       | high           | medium | 4      | namecheap    |
 | eon.mortgage   | available | $65.98    | $76.98        | high           | low    | 3      | namecheap    |
-| shore.mortgage | premium   | $3,450    | $3,450        | high           | low    | 5      | namesilo     |
+| basic.mortgage | premium   | $520      | $520          | high           | low    | 5      | namecheap    |
 | est.mortgage   | available | $49.88    | $49.88        | high           | low    | 3      | spaceship    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 24,054 live domains                        |
+| 1,000-row public sample | 24,642 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 5 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
