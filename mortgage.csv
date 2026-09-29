@@ -4,12 +4,14 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6d89a8ab-2d51-448b-ad61-19d4df84857b,compromise.mortgage,available,62.99,62.99,high,low,10,namesilo,,,24/09/2026 16:54
 d0e6f8a1-37b3-4305-9569-e6907f4590e9,razed.mortgage,available,14.99,81.99,medium,low,5,name.com,,,14/08/2026 01:24
 ac3f48ac-b46b-47ef-b4c8-e38846167034,earthworm.mortgage,available,62.99,62.99,high,low,9,namesilo,,,19/09/2026 06:33
+7bd08758-6e64-4aed-b7e5-36a64203e066,kirkpatrick.mortgage,available,62.99,62.99,medium,low,11,namesilo,,,28/09/2026 12:22
 cc57716e-8e7e-4303-9ae7-27ac1c9900dd,disobedience.mortgage,available,62.99,62.99,medium,low,12,namesilo,,,16/09/2026 12:19
 b4a1c409-fa33-4a23-90a8-1501229bf517,ivan.mortgage,available,62.99,62.99,high,low,4,namesilo,,,25/09/2026 12:04
 a8ce62be-2f96-4c9e-a304-36b9170b6148,adhesive.mortgage,available,14.99,81.99,high,low,8,name.com,,,
-924a29a1-2b24-4d8f-8f9a-1c26aef18f41,almost.mortgage,available,14.99,,high,low,6,name.com,,,
+924a29a1-2b24-4d8f-8f9a-1c26aef18f41,almost.mortgage,available,8.24,49.95,high,low,6,porkbun,,,28/09/2026 11:54
 01855d96-f722-4c4c-8a19-fd20e8e17665,cyclic.mortgage,available,14.99,81.99,high,low,6,name.com,,,13/08/2026 13:31
 7df6d8bf-9b1d-4265-91d5-4e4f564dfa82,regarded.mortgage,available,14.99,,high,low,8,name.com,,,
+fb5d49ee-b206-4436-81f3-1e38832cf290,spa.mortgage,available,8.24,51.58,high,low,3,dynadot,,,28/09/2026 10:01
 edd8f74f-38ce-4695-a42f-89222baf478b,dotty.mortgage,available,14.99,81.99,medium,low,5,name.com,,,06/08/2026 20:55
 5ecd231d-5f4d-4265-83e2-df0b720fd870,corrected.mortgage,available,62.99,62.99,high,low,9,namesilo,,,23/09/2026 23:45
 c8a54a6b-0348-4c65-a511-c943d822c5fd,chelate.mortgage,available,14.99,81.99,medium,low,7,name.com,,,12/08/2026 04:03
@@ -19,7 +21,7 @@ c8a54a6b-0348-4c65-a511-c943d822c5fd,chelate.mortgage,available,14.99,81.99,medi
 2109ca2f-386a-41cc-99cc-0a0b6a2cbe51,verb.mortgage,available,14.99,,high,low,4,name.com,,,
 7bb2e961-1eed-4b4b-9acc-91cafb1c869d,etcetera.mortgage,available,65.98,76.98,high,low,8,namecheap,,,13/09/2026 19:52
 c4b38723-a8a1-4845-9c23-432d29b4fdf0,reel.mortgage,available,62.99,62.99,high,low,4,namesilo,,,24/09/2026 06:24
-b1bb5fc7-ad6a-462c-82c0-b60278906b46,brie.mortgage,available,14.99,,high,low,4,name.com,,,
+b1bb5fc7-ad6a-462c-82c0-b60278906b46,brie.mortgage,available,49.88,49.88,medium,low,4,spaceship,,,29/09/2026 04:09
 d45d5569-8c2b-4954-b58f-38a89bb6ccd6,virile.mortgage,available,62.99,62.99,high,low,6,namesilo,,,13/09/2026 06:04
 32451fc4-db0b-4f11-917e-f8c02f9d9af0,teachable.mortgage,available,62.99,62.99,high,low,9,namesilo,,,11/09/2026 09:34
 252d8b5c-f704-4f49-bb7d-567d7276f3bf,excess.mortgage,available,14.99,81.99,high,low,6,name.com,,,17/08/2026 16:06
@@ -29,6 +31,7 @@ b5074712-5d5c-4f63-bb5e-762927acff7e,stabilized.mortgage,available,65.98,76.98,h
 cc1d62c4-b168-4547-b098-3eda59992c8d,skinny.mortgage,available,14.99,81.99,high,low,6,name.com,,,12/08/2026 04:01
 f040df86-ba57-43d6-92da-ed370a39c751,autograph.mortgage,available,62.99,62.99,high,low,9,namesilo,,,21/09/2026 06:37
 da18ebe3-d57f-4cc5-b7e6-a4379f6a8902,agama.mortgage,available,62.99,62.99,medium,low,5,namesilo,,,17/09/2026 16:05
+461fae35-df35-4421-9392-1a1515b1009a,feared.mortgage,available,49.88,49.88,medium,low,6,spaceship,,,28/09/2026 11:28
 9a1a9559-97f1-44a2-8cb2-672337ec0433,graveyard.mortgage,available,49.88,49.88,high,low,9,spaceship,,,28/09/2026 01:14
 0a857352-85e5-4c39-b7bf-2fa6c81dc124,quelled.mortgage,available,62.99,62.99,medium,low,7,namesilo,,,09/09/2026 08:24
 ac766b47-d1d7-4b3b-bbb6-4c574f021ebf,pyramidal.mortgage,available,62.99,62.99,medium,low,9,namesilo,,,09/09/2026 06:55
@@ -43,6 +46,7 @@ b4702bcd-8699-4483-9194-c0427e97f332,slimy.mortgage,available,14.99,81.99,medium
 bdd17ceb-b65d-4b2f-9dfd-33124f785182,running.mortgage,available,62.99,62.99,high,low,7,namesilo,,,27/09/2026 17:05
 7cd2f5d6-85f9-4bab-abf1-c84284eb5ae6,tile.mortgage,available,14.99,,high,low,4,name.com,,,
 3db2740a-9bcd-4dfa-8686-c302a2d5dbe5,apposite.mortgage,available,14.99,81.99,medium,low,8,name.com,,,06/08/2026 07:53
+5a60bb33-2c41-4e30-9179-05d26b0c2a31,konrad.mortgage,available,62.99,62.99,medium,low,6,namesilo,,,28/09/2026 12:53
 1738aa6d-d8c8-41d5-acf1-586c53239293,nonunion.mortgage,available,65.98,76.98,medium,low,8,namecheap,,,03/09/2026 20:58
 6f342679-c504-47ec-bc9e-a3c6883eb436,murray.mortgage,available,62.99,62.99,high,low,6,namesilo,,,25/09/2026 22:54
 5cde09d9-10e0-45ee-a60e-e17f0c8dc18f,dike.mortgage,available,14.99,81.99,medium,low,4,name.com,,,11/08/2026 11:33
@@ -60,7 +64,7 @@ a35b59c8-00cf-4986-add9-698f0a13c3b2,spoilt.mortgage,available,14.99,81.99,mediu
 6c2a432d-c5d0-44e3-b1f6-e53e0731f3cb,blonde.mortgage,available,62.99,62.99,high,low,6,namesilo,,,22/09/2026 22:17
 fd52ea55-cc4e-4032-bb38-d3763303d897,chronic.mortgage,available,14.99,81.99,high,low,7,name.com,,,12/08/2026 07:24
 0085e421-2146-4958-bc32-1aa5f9d2543d,different.mortgage,available,65.98,76.98,high,low,9,namecheap,,,24/09/2026 08:12
-07da2416-1a1d-4d02-afc9-f28e6f02cc00,nearly.mortgage,available,14.99,,high,low,6,name.com,,,
+07da2416-1a1d-4d02-afc9-f28e6f02cc00,nearly.mortgage,available,62.99,62.99,high,low,6,namesilo,,,28/09/2026 11:55
 175ade2f-3279-4aa9-9695-ce9ae2541448,owned.mortgage,available,62.99,62.99,high,low,5,namesilo,,,26/09/2026 03:41
 8b15ee0a-f5cd-4065-b675-36bb4d4e32b7,cook.mortgage,available,62.99,62.99,high,low,4,namesilo,,,27/09/2026 10:07
 e45f2118-61f1-49de-96ed-46decff5d599,grey.mortgage,available,62.99,62.99,high,low,4,namesilo,,,08/09/2026 07:08
@@ -71,10 +75,12 @@ a69da42f-78a7-4c40-aac0-0c883581f276,bucolic.mortgage,available,14.99,81.99,high
 c2436111-f5c1-4a7d-ba67-ca9819e4eac7,eyrie.mortgage,available,14.99,81.99,high,low,5,name.com,,,
 ffa97e75-3ebb-405d-9486-3551e1a1b721,action.mortgage,available,65.98,76.98,high,medium,6,namecheap,,,28/09/2026 02:43
 1ef86c72-c121-48cc-9514-413147de2628,perfume.mortgage,available,65.98,76.98,high,low,7,namecheap,,,27/09/2026 04:02
+3c57eb81-9d01-4cd2-9b62-129eb886c57c,bananas.mortgage,available,62.99,62.99,high,low,7,namesilo,,,28/09/2026 15:58
 499aee07-90e5-40f0-8556-d8d69ed53e21,secluded.mortgage,available,65.98,76.98,high,low,8,namecheap,,,27/09/2026 06:24
 e8709fa5-a6e4-471e-be2e-ec8e7b5550c9,frog.mortgage,available,14.99,81.99,high,low,4,name.com,,,05/08/2026 21:03
 8f39e9ba-3b61-4d8f-857a-c3fe52e48759,pricy.mortgage,available,14.99,81.99,medium,low,5,name.com,,,21/08/2026 08:58
 f6bda0e5-3f11-476f-9e09-12f77c5f68e3,groundless.mortgage,available,14.99,81.99,medium,low,10,name.com,,,08/08/2026 21:49
+1b0b933b-5c89-41be-b19b-3b694cf13cfe,comrade.mortgage,available,62.99,62.99,high,low,7,namesilo,,,28/09/2026 13:44
 46e7a463-450f-4a62-8f8f-1c0d4407e8d4,agni.mortgage,available,62.99,62.99,medium,low,4,namesilo,,,17/09/2026 18:43
 490321ec-0fe1-4846-9e05-496c080d3c06,slots.mortgage,available,62.99,62.99,high,low,5,namesilo,,,20/09/2026 10:58
 49ae23b8-8cd1-4ecf-ba6b-e3741a228ef0,characteristics.mortgage,available,14.99,,medium,low,15,name.com,,,
@@ -82,7 +88,7 @@ f6bda0e5-3f11-476f-9e09-12f77c5f68e3,groundless.mortgage,available,14.99,81.99,m
 c9cfc033-0aea-451a-a930-1b445b102e7f,horseback.mortgage,available,62.99,62.99,high,low,9,namesilo,,,21/09/2026 23:38
 60d9c246-36a3-4003-a2eb-0e82cbd0d82a,quaintly.mortgage,available,62.99,62.99,medium,low,8,namesilo,,,15/09/2026 22:07
 b5202d58-ed9f-400a-b2ae-ebbebc53aee4,solely.mortgage,available,14.99,81.99,high,low,6,name.com,,,
-be5c9f97-2e44-4672-b409-7e5543e13865,wool.mortgage,available,14.99,,high,low,4,name.com,,,
+be5c9f97-2e44-4672-b409-7e5543e13865,wool.mortgage,available,48.2,48.2,high,low,4,cloudflare,,,28/09/2026 10:46
 c54d1def-6697-4e57-bf95-d314e9bb95ac,baking.mortgage,available,62.99,62.99,high,low,6,namesilo,,,22/09/2026 16:25
 87705c28-f63b-4b1b-9ade-dbfdf80992da,thrashing.mortgage,available,62.99,62.99,medium,low,9,namesilo,,,13/09/2026 07:54
 0884bd0e-0358-4e75-a8eb-07d8a82c896f,healthful.mortgage,available,14.99,81.99,high,low,9,name.com,,,21/08/2026 02:02
@@ -92,12 +98,14 @@ c54d1def-6697-4e57-bf95-d314e9bb95ac,baking.mortgage,available,62.99,62.99,high,
 fdd618a0-8707-4808-acbe-e9df0bb9ead4,cuisine.mortgage,available,49.88,49.88,high,low,7,spaceship,,,28/09/2026 04:20
 1e96987d-0405-4cde-a76e-d06fc2c08cdf,tautly.mortgage,available,62.99,62.99,medium,low,6,namesilo,,,16/09/2026 08:09
 455f4d4c-2669-4746-8b97-5a734566734e,deplorable.mortgage,available,14.99,81.99,medium,low,10,name.com,,,12/08/2026 20:22
-936ae3cd-3004-4477-bd0a-d594be3b2f53,grip.mortgage,available,14.99,,high,low,4,name.com,,,
+936ae3cd-3004-4477-bd0a-d594be3b2f53,grip.mortgage,available,8.24,49.95,high,low,4,porkbun,,,28/09/2026 18:31
+55fd40e6-603f-4673-b9aa-2314aa89fd8b,nicholls.mortgage,available,49.88,49.88,medium,low,8,spaceship,,,28/09/2026 16:37
 a1db310e-2cf7-4975-a703-ed10be79a9f1,marsupial.mortgage,available,14.99,81.99,high,low,9,name.com,,,24/08/2026 16:32
 bfc1464f-bad1-4545-94a4-c110ed83e363,grocery.mortgage,available,62.99,62.99,high,low,7,namesilo,,,08/09/2026 13:48
 fae8a388-6a63-46e8-8042-d7cb159db2cd,organised.mortgage,available,62.99,62.99,high,low,9,namesilo,,,26/09/2026 00:28
 1f3c0446-6d93-40f9-a027-0557f1a8cd1e,prostyle.mortgage,available,62.99,62.99,medium,low,8,namesilo,,,09/09/2026 04:01
-674e112d-914a-4de3-bd8f-fd47c018fab8,background.mortgage,available,14.99,,high,low,10,name.com,,,
+0decc59a-3c42-4b90-adf0-1cc43e4c613d,cpc.mortgage,premium,242,242,high,low,3,namesilo,,,28/09/2026 16:33
+674e112d-914a-4de3-bd8f-fd47c018fab8,background.mortgage,available,65.98,76.98,high,low,10,namecheap,,,29/09/2026 00:20
 cf2c84cc-a298-403b-a487-86f0ba235023,vomiting.mortgage,available,14.99,,high,low,8,name.com,,,
 41ea21a2-2202-4707-a6f7-8928b1525dca,unseasoned.mortgage,available,65.98,76.98,medium,low,10,namecheap,,,12/09/2026 18:46
 c730c114-471f-413e-8c3a-064609312ab3,diabetic.mortgage,available,14.99,81.99,high,low,8,name.com,,,14/08/2026 05:36
@@ -105,6 +113,7 @@ c730c114-471f-413e-8c3a-064609312ab3,diabetic.mortgage,available,14.99,81.99,hig
 cd21a4ed-73b6-469c-b4e7-640711bed426,adored.mortgage,available,65.98,76.98,high,low,6,namecheap,,,21/09/2026 19:35
 56521344-b260-4d4e-8d3d-26012ac8b014,beardless.mortgage,available,14.99,81.99,medium,low,9,name.com,,,09/08/2026 04:43
 dcbe63f1-0e28-4dab-8793-02d2868d5d6d,stages.mortgage,available,62.99,62.99,medium,low,6,namesilo,,,16/09/2026 12:11
+c9125990-eb75-4c38-86ef-007c6aa9ed6a,forcing.mortgage,available,49.88,49.88,medium,low,7,spaceship,,,28/09/2026 12:56
 ed4fefad-53e6-472e-b8a2-bbe10250a273,contained.mortgage,available,62.99,62.99,high,low,9,namesilo,,,23/09/2026 21:42
 edb055a3-e600-44c6-bfee-7ef84a5f98f8,pinked.mortgage,available,62.99,62.99,medium,low,6,namesilo,,,20/09/2026 15:51
 b6a06b58-167d-491b-85cc-bd58ba70e9cb,finalized.mortgage,available,62.99,62.99,medium,low,9,namesilo,,,17/09/2026 13:05
@@ -112,7 +121,7 @@ b6a06b58-167d-491b-85cc-bd58ba70e9cb,finalized.mortgage,available,62.99,62.99,me
 75551b6d-adc2-4eb1-9db0-cd25f20f00b4,canonical.mortgage,available,14.99,81.99,high,low,9,name.com,,,11/08/2026 17:23
 c23a9bad-ade0-45c7-bc05-ffc0a7722479,argal.mortgage,available,65.98,76.98,medium,low,5,namecheap,,,20/09/2026 04:10
 987b9c92-c558-4848-910f-df6c0db305d1,appreciation.mortgage,premium,500,,high,low,12,name.com,,,
-705a4294-b76f-4e04-a6df-01e787357cbd,university.mortgage,available,62.99,62.99,high,low,10,namesilo,,,26/09/2026 00:46
+705a4294-b76f-4e04-a6df-01e787357cbd,university.mortgage,available,62.99,62.99,high,low,10,namesilo,,,28/09/2026 22:48
 8aea10d9-de5d-430b-bf00-eade3ce1fa6a,overgrown.mortgage,available,62.99,62.99,medium,low,9,namesilo,,,04/09/2026 20:42
 80a878c3-5973-45f7-9b6c-39275c93368d,limply.mortgage,available,62.99,62.99,medium,low,6,namesilo,,,15/09/2026 12:20
 03cc5d87-f755-4576-94f4-493b2a4595a9,inflated.mortgage,available,14.99,81.99,medium,low,8,name.com,,,21/08/2026 08:47
@@ -126,6 +135,7 @@ ef32c0db-f618-491d-bfd2-4de605db3d84,situated.mortgage,available,62.99,62.99,med
 c5c1089f-c824-4c72-9114-5e17293a3d6c,ribless.mortgage,available,62.99,62.99,medium,low,7,namesilo,,,09/09/2026 17:15
 e5f43f8b-8007-404c-9ccf-2411fed5ff2d,axolotl.mortgage,available,62.99,62.99,high,low,7,namesilo,,,18/09/2026 17:37
 f7025dbc-a954-4130-9d0f-c81f84fd8bdc,bosomed.mortgage,available,14.99,81.99,medium,low,7,name.com,,,10/08/2026 20:23
+ab8da1f4-bc05-4e50-82d5-a5a4c0d080f5,founder.mortgage,available,8.24,49.95,high,medium,7,porkbun,,,28/09/2026 13:40
 df575ae4-1a7a-4885-b73e-741f8cfc6647,inculpable.mortgage,available,14.99,81.99,medium,low,10,name.com,,,10/08/2026 12:55
 945dfe3c-23e5-46d9-94b6-732c437de1a7,auspex.mortgage,available,62.99,62.99,medium,low,6,namesilo,,,21/09/2026 03:22
 8707a694-ae0a-4fed-8d2f-f192debecc45,soberly.mortgage,available,62.99,62.99,medium,low,7,namesilo,,,14/09/2026 22:10
@@ -133,7 +143,7 @@ decb960c-4ce7-474f-93ab-e7558808e863,unshared.mortgage,available,62.99,62.99,med
 782544fd-03d0-4617-bedd-62e7644a7045,roasted.mortgage,available,49.88,49.88,high,low,7,spaceship,,,27/09/2026 15:50
 f52dd9ba-5798-4a1a-94ed-caf738c0eb55,slowly.mortgage,available,14.99,81.99,medium,low,6,name.com,,,22/08/2026 23:55
 117d6be6-ec81-43fd-8267-95edf1bf59ec,est.mortgage,available,49.88,49.88,high,low,3,spaceship,,,28/09/2026 01:49
-d0a75e7b-9b88-4f16-8f04-5d1bc205a306,situation.mortgage,available,14.99,,high,low,9,name.com,,,
+d0a75e7b-9b88-4f16-8f04-5d1bc205a306,situation.mortgage,available,49.88,49.88,high,low,9,spaceship,,,29/09/2026 02:15
 f57e5e60-9c12-4115-8b10-e3552b1589f0,assyria.mortgage,available,62.99,62.99,medium,low,7,namesilo,,,20/09/2026 16:47
 f256d44c-af9f-4c84-9358-d995ef618639,applique.mortgage,available,65.98,76.98,medium,low,8,namecheap,,,19/09/2026 21:57
 5b5bfac2-8734-411a-b725-63095594cc12,outlined.mortgage,available,65.98,76.98,high,low,8,namecheap,,,04/09/2026 19:31
@@ -143,13 +153,16 @@ e1f14cb2-3311-432a-9a88-9b8a183dd8f6,advocator.mortgage,available,14.99,81.99,me
 bfc100c3-419e-4a27-8194-ec9841666037,prioritize.mortgage,available,14.99,,high,low,10,name.com,,,
 b8ae6b49-7509-4dea-85bc-b04bd72e6131,bumpy.mortgage,available,14.99,81.99,medium,low,5,name.com,,,11/08/2026 09:48
 995e9376-a54c-4e9e-b673-22c3d78e5e05,endure.mortgage,available,14.99,81.99,high,low,6,name.com,,,11/08/2026 02:41
+d849fbf7-5f5b-4791-885d-4492aeb585a8,connell.mortgage,available,49.88,49.88,medium,low,7,spaceship,,,28/09/2026 22:06
+56fa9309-5396-436c-aa4f-d250c10ced59,mounting.mortgage,available,62.99,62.99,medium,low,8,namesilo,,,29/09/2026 00:26
 bfeb73f2-a4e2-4770-994b-3cedac421579,upbound.mortgage,available,62.99,62.99,medium,low,7,namesilo,,,12/09/2026 23:02
 011bb70f-67fc-4500-98dc-4c117245be67,auxesis.mortgage,available,62.99,62.99,medium,low,7,namesilo,,,21/09/2026 08:33
 734f1e55-e22f-417e-8a2f-4698278f876c,soignee.mortgage,available,62.99,62.99,medium,low,7,namesilo,,,10/09/2026 13:30
 15ac5553-fb0f-4cde-98ef-5d818f3c0c3d,dewey.mortgage,available,62.99,62.99,high,low,5,namesilo,,,17/09/2026 08:48
+f1bf1614-1b7f-4cef-9fbd-ee52dbae9731,encodes.mortgage,available,8.24,51.58,low,low,7,dynadot,,,28/09/2026 17:50
 f5aaf232-5eb2-4ab6-bf15-c8540acfd290,mosey.mortgage,available,62.99,62.99,medium,low,5,namesilo,,,18/09/2026 17:00
 fed625f2-4258-48f7-8a75-92d6677008d1,disregarded.mortgage,available,14.99,,medium,low,11,name.com,,,
-decc9b30-543e-4b9b-8e18-407d4bffb9fb,spirits.mortgage,available,14.99,,high,low,7,name.com,,,
+decc9b30-543e-4b9b-8e18-407d4bffb9fb,spirits.mortgage,available,48.2,48.2,high,low,7,cloudflare,,,29/09/2026 03:40
 fccd966f-e96b-471e-8159-b8d1312dc92f,exuberant.mortgage,available,14.99,81.99,high,low,9,name.com,,,14/08/2026 23:21
 f104516d-5b8f-4076-b515-365cad231186,pointer.mortgage,available,62.99,62.99,high,low,7,namesilo,,,20/09/2026 09:27
 d4138489-7f92-43fd-814e-462f3d04f876,blacksburg.mortgage,available,62.99,62.99,medium,low,10,namesilo,,,24/09/2026 02:57
@@ -167,6 +180,7 @@ f133b92d-72d1-4852-bd10-e6dd4bd4401b,absolute.mortgage,premium,512,512,high,low,
 c5193ca3-00f9-44c9-8183-9e7079a61936,thongs.mortgage,available,65.98,76.98,medium,low,6,namecheap,,,19/09/2026 22:16
 caa9de3b-9cd4-40b8-bee5-ea61808fa770,shuttered.mortgage,available,14.99,81.99,medium,low,9,name.com,,,10/09/2026 07:21
 0e2cc4dc-27b9-4106-8e19-fc753542cd2b,legibility.mortgage,available,62.99,62.99,high,low,10,namesilo,,,24/09/2026 22:31
+ad12ff9a-3109-4de0-9219-358ddba3d268,mughal.mortgage,available,49.88,49.88,medium,low,6,spaceship,,,28/09/2026 21:33
 7996f942-fc2e-49fd-8fe1-7bd3ea56ad29,planate.mortgage,available,14.99,81.99,medium,low,7,name.com,,,18/08/2026 06:53
 a5639c85-555a-4f4b-9ba1-499d997cc097,chargeman.mortgage,available,62.99,62.99,medium,low,9,namesilo,,,24/09/2026 04:25
 42c4cbaa-cae9-4ad9-9b75-c8283db11189,ioc.mortgage,available,49.88,49.88,high,low,3,spaceship,,,28/09/2026 07:36
@@ -176,7 +190,7 @@ f98426d4-fddb-4c59-9dfb-19032dc6bfa9,okra.mortgage,available,62.99,62.99,high,lo
 5f83c142-719f-4298-b60d-9ec6c83ddab5,sargent.mortgage,available,62.99,62.99,medium,low,7,namesilo,,,27/09/2026 04:36
 1db24849-d856-4400-99a1-c5e0a3cc51b3,buggery.mortgage,available,62.99,62.99,medium,low,7,namesilo,,,19/09/2026 01:35
 6daa27fb-7fcb-4790-8303-4d346292cf0a,aspirator.mortgage,available,65.98,76.98,medium,low,9,namecheap,,,20/09/2026 15:23
-8b859a29-c176-4f19-bc75-b4c73861ee1b,currently.mortgage,available,14.99,,high,low,9,name.com,,,
+8b859a29-c176-4f19-bc75-b4c73861ee1b,currently.mortgage,available,62.99,62.99,medium,low,9,namesilo,,,28/09/2026 14:29
 e31a41bc-f71d-4016-8592-57cb68f4c9cf,touchable.mortgage,available,62.99,62.99,high,low,9,namesilo,,,11/09/2026 07:57
 f8dff591-582b-400c-91ed-fc5c188085dd,cutaneal.mortgage,available,14.99,81.99,medium,low,8,name.com,,,13/08/2026 12:57
 e4692d05-818b-49c4-ba2b-bf3a428c0eeb,brisant.mortgage,available,14.99,81.99,medium,low,7,name.com,,,11/08/2026 04:27
@@ -188,7 +202,7 @@ f8e72eb5-d492-42f8-8bf6-673bcd77b9e1,apneic.mortgage,available,14.99,81.99,mediu
 4eff3638-e2b6-4c29-8ec1-c0241d1c725a,usb.mortgage,available,62.99,62.99,high,low,3,namesilo,,,28/09/2026 03:21
 ea5a2a77-1609-454c-894a-7f80ce3c4c1d,stunning.mortgage,available,62.99,62.99,high,low,8,namesilo,,,22/09/2026 08:34
 24ad47b8-85f6-4ac4-a2de-e584d2fee022,glossy.mortgage,available,14.99,81.99,high,low,6,name.com,,,11/08/2026 14:10
-1c31f640-92e4-468c-bd70-23a783b85d3e,panda.mortgage,available,14.99,,high,medium,5,name.com,,,
+1c31f640-92e4-468c-bd70-23a783b85d3e,panda.mortgage,available,8.24,49.95,high,medium,5,porkbun,,,28/09/2026 19:27
 1ab328fa-559e-4799-8785-271923e10248,winthrop.mortgage,available,62.99,62.99,high,low,8,namesilo,,,27/09/2026 19:50
 e4d078c4-9464-4bda-ba47-c9a4e1395bad,andalusia.mortgage,available,62.99,62.99,high,low,9,namesilo,,,19/09/2026 03:57
 e97b0ac9-a1d5-4c65-bee9-82292fe3c714,eve.mortgage,available,62.99,62.99,high,medium,3,namesilo,,,24/09/2026 15:30
@@ -196,13 +210,14 @@ bbca9c44-d2e2-4db9-b508-89d01ac64555,suspicion.mortgage,available,62.99,62.99,hi
 d25d3892-53b1-4832-bff4-b1684d283888,volvo.mortgage,available,14.99,,high,low,5,name.com,,,
 56e9940e-3a8a-4704-846e-01033e665cfe,acousma.mortgage,available,62.99,62.99,medium,low,7,namesilo,,,17/09/2026 02:29
 189ecb22-a4ba-4b52-8f5a-2d4fe992daae,drag.mortgage,available,62.99,62.99,high,low,4,namesilo,,,25/09/2026 22:05
+2b80ea10-460f-4230-a1bf-947d32d13bd5,hiking.mortgage,available,49.88,49.88,high,low,6,spaceship,,,29/09/2026 01:18
 604c3b84-7a94-46f5-97b2-36541c9c3e6d,marrow.mortgage,available,62.99,62.99,high,low,6,namesilo,,,14/09/2026 23:46
 11a82d95-2349-4497-83c2-25e76bbcf006,controlling.mortgage,available,14.99,,high,low,11,name.com,,,
 b5a13fc2-c0d0-4ab1-83ec-70ea4293d3de,inglorious.mortgage,available,14.99,81.99,medium,low,10,name.com,,,21/08/2026 18:25
 db793f4b-781c-4573-8422-bebdcdc900bb,anthill.mortgage,available,65.98,76.98,high,low,7,namecheap,,,19/09/2026 13:26
 be61097e-030e-4fff-a6a0-7f594732a158,sheik.mortgage,available,14.99,81.99,high,low,5,name.com,,,13/08/2026 17:11
 9ad6d741-00c5-45db-a89c-9c19a4c13887,conjugal.mortgage,available,14.99,81.99,medium,low,8,name.com,,,12/08/2026 22:07
-44a8d961-25ad-4292-8e2c-572838390a83,manageable.mortgage,available,62.99,62.99,high,low,10,namesilo,,,21/09/2026 15:48
+44a8d961-25ad-4292-8e2c-572838390a83,manageable.mortgage,available,62.99,62.99,high,low,10,namesilo,,,28/09/2026 15:51
 fd236990-2d49-4c63-ba43-fd91ba5c6885,frisian.mortgage,available,14.99,81.99,medium,low,7,name.com,,,18/08/2026 15:59
 7afb047d-a225-49ec-b335-62c55a42c770,positivity.mortgage,available,62.99,62.99,high,low,10,namesilo,,,17/09/2026 10:30
 ceec1aec-2dc0-4637-a151-c7d0bd561b0c,mouthfeel.mortgage,available,14.99,,medium,low,10,name.com,,,
@@ -211,12 +226,12 @@ ceec1aec-2dc0-4637-a151-c7d0bd561b0c,mouthfeel.mortgage,available,14.99,,medium,
 a7fcb8ed-00cd-4dfd-b8b9-675566ec2fa5,unspent.mortgage,available,62.99,62.99,high,low,7,namesilo,,,12/09/2026 09:36
 05a64217-5493-4ebc-b7b1-c6488e7c07d7,veggie.mortgage,available,62.99,62.99,high,low,6,namesilo,,,19/09/2026 06:34
 6e944558-6411-40c0-8051-8f8e2025bf73,betatron.mortgage,available,65.98,76.98,medium,low,8,namecheap,,,23/09/2026 11:04
+ecf680b8-d2ec-4354-97c1-e1c7496f1d78,eliminated.mortgage,available,49.88,49.88,medium,low,10,spaceship,,,28/09/2026 17:04
 bcf067ff-c85f-4fc1-93bc-d01bf2af9ec0,alsace.mortgage,premium,118.8,118.8,high,low,6,namesilo,,,18/09/2026 14:15
 64a524d8-0453-4ce6-a6cb-f0586fdd1ccf,linnean.mortgage,available,14.99,81.99,medium,low,7,name.com,,,23/08/2026 17:24
 dfe175b1-3794-4b3c-93ba-7231dabd0d86,unbound.mortgage,available,62.99,62.99,high,low,7,namesilo,,,12/09/2026 02:25
-1938abf2-ec74-463c-a56b-5988293fd252,athletics.mortgage,available,,,high,medium,9,,,,
 0ae23b54-d367-41ea-86dd-6f54d30622c1,flooded.mortgage,available,14.99,81.99,high,low,7,name.com,,,08/08/2026 00:23
-589ca721-2edf-4e25-b9d9-7482decb5470,bird.mortgage,available,14.99,,high,medium,4,name.com,,,
+589ca721-2edf-4e25-b9d9-7482decb5470,bird.mortgage,available,8.24,51.58,high,medium,4,dynadot,,,29/09/2026 02:46
 86e45e08-7aba-4785-aae4-84b4edd92613,drove.mortgage,available,62.99,62.99,high,low,5,namesilo,,,25/09/2026 22:29
 e6df3b8b-dcb1-4659-8ad1-50319199226b,aigret.mortgage,available,65.98,76.98,medium,low,6,namecheap,,,17/09/2026 20:56
 49762776-1847-4e9f-9a73-d664b944f3f7,earle.mortgage,available,62.99,62.99,medium,low,5,namesilo,,,26/09/2026 03:17
@@ -224,14 +239,17 @@ e6df3b8b-dcb1-4659-8ad1-50319199226b,aigret.mortgage,available,65.98,76.98,mediu
 69b54a24-6fe3-48d3-820f-1736e5c0d81b,belongs.mortgage,available,65.98,76.98,medium,low,7,namecheap,,,25/09/2026 20:38
 0dc842cc-68e7-4448-81d9-30c84a95fc83,cactus.mortgage,available,65.98,76.98,high,low,6,namecheap,,,24/09/2026 11:36
 bb9baecb-1246-4ce4-a498-5d846adc51f6,wholly.mortgage,available,14.99,81.99,high,low,6,name.com,,,
+1e42e740-afc7-4ebb-b0bd-dd324b8876fd,granite.mortgage,premium,102.67,102.67,high,low,7,spaceship,,,28/09/2026 19:22
 9e373ab1-043e-446d-98de-2af844c1c8ee,judging.mortgage,available,62.99,62.99,high,low,7,namesilo,,,27/09/2026 14:29
 8cb16b31-3e5b-4a94-be4e-c33019c65db1,accordant.mortgage,available,14.99,81.99,high,low,9,name.com,,,
 fb6e0e20-dfe8-47bf-97c4-56e6596949ad,mainz.mortgage,premium,242,242,high,low,5,namesilo,,,28/09/2026 03:51
 10c70daa-5eb4-4ee5-9755-f344363b28b3,oceangoing.mortgage,available,62.99,62.99,medium,low,10,namesilo,,,04/09/2026 00:20
 ab04e670-617b-4b3f-8fd5-b57d6910bbe0,germanic.mortgage,available,14.99,81.99,high,low,8,name.com,,,18/08/2026 22:46
+a5615d5b-5a7e-4924-93bc-27bd468acc3d,tex.mortgage,premium,118.8,118.8,medium,low,3,namesilo,,,29/09/2026 03:26
 819217f7-03fd-4fc8-82ce-de02b1e3cd1b,aching.mortgage,available,14.99,81.99,medium,low,6,name.com,,,
 2fc57a46-073b-44c6-ae95-4f7be34ddbb6,unpressed.mortgage,available,62.99,62.99,low,low,9,namesilo,,,12/09/2026 17:24
 6178d63f-d5df-46a4-8e7f-5fae0990a592,bethune.mortgage,available,62.99,62.99,medium,low,7,namesilo,,,23/09/2026 11:17
+5ce099d7-499d-4aa3-80ef-570566f9c821,christoph.mortgage,available,8.24,49.95,medium,low,9,porkbun,,,28/09/2026 12:39
 94564cc8-1197-4e1e-9f1a-5378df486493,precipitous.mortgage,available,14.99,,medium,low,11,name.com,,,
 ced51cc3-06f8-4549-a7e5-fc416313ed29,endurance.mortgage,available,14.99,,high,low,9,name.com,,,
 c3933193-db02-411e-8fdc-d482aaa00d0c,flagging.mortgage,available,14.99,81.99,medium,low,8,name.com,,,14/08/2026 19:41
@@ -239,12 +257,13 @@ c3933193-db02-411e-8fdc-d482aaa00d0c,flagging.mortgage,available,14.99,81.99,med
 146b1585-51d9-4226-9ccd-cede68e8aff1,skewed.mortgage,available,62.99,62.99,medium,low,6,namesilo,,,10/09/2026 09:28
 97b90114-58df-4ed7-bed9-ac07ef9ab7ad,foote.mortgage,available,65.98,76.98,medium,low,5,namecheap,,,28/09/2026 08:03
 f66edfeb-a2a3-43aa-8a4a-f75f58172d5e,bayberry.mortgage,available,62.99,62.99,medium,low,8,namesilo,,,22/09/2026 17:18
-6820b980-2709-4eb6-a1b9-a37bca2a3eab,brass.mortgage,available,14.99,,high,low,5,name.com,,,
+6820b980-2709-4eb6-a1b9-a37bca2a3eab,brass.mortgage,available,8.24,51.58,high,low,5,dynadot,,,29/09/2026 03:59
 739ff77d-3a62-4202-abb3-5486612e5b7c,immanent.mortgage,available,14.99,81.99,medium,low,8,name.com,,,21/08/2026 20:50
 b2fc74ab-3256-4bc5-b0da-609dffd868ab,insurance.mortgage,available,,,high,medium,9,,,,
 ead1e348-d6ce-4018-81f8-72839f5bae30,spotify.mortgage,available,,,high,high,7,,,,
 437443f9-abd5-451b-8200-5030752098d3,fleetly.mortgage,available,65.98,76.98,medium,low,7,namecheap,,,14/09/2026 18:56
 328b82c4-a7c5-42dd-8820-fdfe5eaddeff,pride.mortgage,available,14.99,,high,low,5,name.com,,,
+3a106276-9bce-4fe2-b4c5-4b41015c48d3,intuition.mortgage,available,48.2,48.2,high,low,9,cloudflare,,,28/09/2026 19:28
 31b2b15b-665f-4df2-afaf-2b940de060db,browbeat.mortgage,available,14.99,81.99,medium,low,8,name.com,,,11/08/2026 08:53
 dc98bc63-84e6-4c58-b692-8ce722005ffd,eureka.mortgage,available,62.99,62.99,high,medium,6,namesilo,,,24/09/2026 17:33
 2904dafd-1659-4662-9756-6b2c3bde69ea,manila.mortgage,available,14.99,,high,low,6,name.com,,,
@@ -255,11 +274,13 @@ dc98bc63-84e6-4c58-b692-8ce722005ffd,eureka.mortgage,available,62.99,62.99,high,
 eb498ec0-58a4-4276-8160-ec633fe607f7,bottomless.mortgage,available,14.99,81.99,high,low,10,name.com,,,10/08/2026 21:21
 d960d31c-7629-4e56-8676-9f1310e34de9,star.mortgage,premium,128.7,128.7,high,medium,4,namecheap,,,21/09/2026 17:48
 261f161a-45f8-4186-9aa6-5896f80f6450,scienter.mortgage,available,62.99,62.99,medium,low,8,namesilo,,,16/09/2026 00:44
+dbf07ed8-77ae-46b5-be86-8c4b63cfbe60,battles.mortgage,available,49.88,49.88,low,low,7,spaceship,,,28/09/2026 08:54
 898fba4b-6d48-4580-a3c0-dbb8cf21aea6,little.mortgage,premium,512,512,high,low,6,namesilo,,,24/09/2026 17:48
 8329d641-b5a5-4be5-a6f7-f33c6370d6ce,pretzel.mortgage,available,14.99,,high,low,7,name.com,,,
 b31563b7-61bd-4417-b922-b3dd5e58a3e5,unassured.mortgage,available,62.99,62.99,medium,low,9,namesilo,,,12/09/2026 01:14
 da948216-1637-42ce-885d-fe854a991e5d,raconteur.mortgage,available,62.99,62.99,high,low,9,namesilo,,,19/09/2026 05:14
 bbe11c0e-09ef-4ad0-a0e2-64e3515efe9e,receives.mortgage,available,62.99,62.99,medium,low,8,namesilo,,,18/09/2026 17:46
+6b6de1a3-f4ac-4368-984d-eeeaaf2d3dd3,fern.mortgage,available,62.99,62.99,high,low,4,namesilo,,,29/09/2026 00:53
 3bc0c0ac-f8dc-4725-bcb6-de2ea6db8894,laden.mortgage,available,14.99,81.99,medium,low,5,name.com,,,22/08/2026 18:30
 250db045-9e8d-4b2c-8fe4-d5c434bf7391,monophonic.mortgage,available,14.99,81.99,medium,low,10,name.com,,,25/08/2026 04:55
 ebccd2ae-2bd0-4c8b-98fb-c325b3c9f47f,vestal.mortgage,available,62.99,62.99,medium,low,6,namesilo,,,13/09/2026 04:47
@@ -299,6 +320,7 @@ a55b574b-8c29-4569-a884-a7e7e29b220a,chilean.mortgage,available,14.99,81.99,high
 b1b03db0-5848-42c2-9d49-53d1999669a9,inflowing.mortgage,available,14.99,81.99,high,low,9,name.com,,,22/08/2026 04:34
 1928c6f3-22a8-424a-bf5a-d41a60befa1d,accretion.mortgage,available,62.99,62.99,high,low,9,namesilo,,,16/09/2026 23:14
 f3049211-1118-436f-911c-f189011dc5a9,mindful.mortgage,available,14.99,81.99,high,low,7,name.com,,,24/08/2026 23:36
+59b02938-cfc0-4c80-a6bd-6beed4fc7b0e,rifles.mortgage,available,8.24,49.95,low,low,6,porkbun,,,28/09/2026 08:46
 04303b20-f76b-4f9e-a6a5-f02d02f6c567,rico.mortgage,available,62.99,62.99,high,low,4,namesilo,,,19/09/2026 14:11
 ef7502b1-b4b6-42da-911a-81adf7d747c6,nobel.mortgage,available,62.99,62.99,high,low,5,namesilo,,,18/09/2026 06:24
 2190b06a-d0db-4d45-9488-f9658523eaba,additions.mortgage,available,62.99,62.99,medium,low,9,namesilo,,,18/09/2026 16:32
@@ -310,6 +332,7 @@ dfe06c5a-7dfd-4eb2-9a82-42f904966516,empyreal.mortgage,available,14.99,81.99,med
 610d42ed-3bde-4862-9370-661c46e515a1,prison.mortgage,available,14.99,,high,low,6,name.com,,,
 0cea30ad-cd26-45a4-a83d-7352f1fe6916,paraffin.mortgage,available,62.99,62.99,high,low,8,namesilo,,,18/09/2026 08:24
 4b2aec7b-ade9-4a41-87d2-3a9124a98d1a,clxxv.mortgage,available,14.99,81.99,medium,low,5,name.com,,,
+3ab02a5f-b8e1-4fa7-8409-206ff294ec45,monument.mortgage,premium,118.8,118.8,high,low,8,namesilo,,,28/09/2026 14:54
 01b82366-e19b-4d0d-97b3-bacbc348eb73,habit.mortgage,available,62.99,62.99,high,low,5,namesilo,,,25/09/2026 05:00
 e43a8976-5d75-4575-aa03-08b9c55098dd,went.mortgage,available,14.99,,high,low,4,name.com,,,
 d66d4793-174d-45bb-8282-b9328424a2f3,pukka.mortgage,available,14.99,81.99,medium,low,5,name.com,,,09/09/2026 05:24
@@ -318,7 +341,7 @@ bbd934f9-a7ec-4c59-9773-59fcea4491ea,spick.mortgage,available,14.99,81.99,medium
 5a6668e4-ddec-4399-998e-ecf517745652,forthright.mortgage,available,14.99,81.99,high,low,10,name.com,,,11/08/2026 16:42
 ae24f2cf-70d8-4488-8d68-0b827e922f63,behavior.mortgage,available,65.98,76.98,high,low,8,namecheap,,,23/09/2026 03:06
 2ccb84ab-5931-49fc-88b3-3a7eddd9d1c9,sayonara.mortgage,available,62.99,62.99,high,low,8,namesilo,,,17/09/2026 08:15
-cde9fea1-bd28-480b-b7c6-4b89c60171ec,therefore.mortgage,available,14.99,,high,low,9,name.com,,,
+cde9fea1-bd28-480b-b7c6-4b89c60171ec,therefore.mortgage,available,62.99,62.99,medium,low,9,namesilo,,,28/09/2026 15:07
 1d44a2a2-f9ce-4bf1-89c2-513753c0fcd6,credence.mortgage,available,62.99,62.99,high,low,8,namesilo,,,16/09/2026 21:59
 67dd9a30-4931-435f-9735-4a236f9bbb5a,engorge.mortgage,available,65.98,76.98,medium,low,7,namecheap,,,23/09/2026 17:25
 e4f281fb-b5c4-4e64-b236-bfc44ff6ffa1,cause.mortgage,available,65.98,76.98,high,low,5,namecheap,,,24/09/2026 13:11
@@ -354,20 +377,22 @@ d93ec22f-a46f-4f78-8b86-59d09d2a40e8,expendable.mortgage,available,14.99,81.99,h
 d490b934-3f2a-44e0-9504-80ae0c0ce04c,controversial.mortgage,available,14.99,,medium,low,13,name.com,,,
 071e67b6-2b41-498d-8231-1ea08bc20b5d,anile.mortgage,available,14.99,81.99,medium,low,5,name.com,,,
 3f38eb59-1d4a-455b-962e-5feb656470d8,mountains.mortgage,available,14.99,81.99,medium,low,9,name.com,,,17/09/2026 17:48
-ee79cb28-9ace-4b94-8365-37b27c1d2ee2,possibly.mortgage,available,14.99,,high,low,8,name.com,,,
+ee79cb28-9ace-4b94-8365-37b27c1d2ee2,possibly.mortgage,available,62.99,62.99,medium,low,8,namesilo,,,28/09/2026 16:14
 f9ec883a-a730-483d-87df-58804d5203fc,towed.mortgage,available,14.99,,medium,low,5,name.com,,,
 31f354b0-9d14-49f9-8a56-8bf1b745c3d0,floodlit.mortgage,available,14.99,81.99,medium,low,8,name.com,,,18/08/2026 08:47
 1e2c80d0-36af-4932-8a2e-c552196a858d,stationary.mortgage,available,65.98,76.98,high,low,10,namecheap,,,10/09/2026 19:12
-3f1f8092-537b-48fd-9ca3-0fe26702e5c0,suspension.mortgage,available,14.99,,high,low,10,name.com,,,
+3f1f8092-537b-48fd-9ca3-0fe26702e5c0,suspension.mortgage,available,62.99,62.99,high,low,10,namesilo,,,28/09/2026 16:59
 54815eb0-3297-4679-93db-06732fe80607,knees.mortgage,available,14.99,81.99,medium,low,5,name.com,,,17/09/2026 07:20
 70b41a28-09c1-4501-93ad-41cb1b0db07d,digitizer.mortgage,available,62.99,62.99,high,low,9,namesilo,,,19/09/2026 01:49
 570d5c52-b340-4ee5-8842-a34903212bc3,bittie.mortgage,available,14.99,81.99,medium,low,6,name.com,,,10/08/2026 07:56
 ed4ca56e-c66c-4057-9259-47819d71f0be,stalked.mortgage,available,62.99,62.99,medium,low,7,namesilo,,,08/09/2026 13:33
+97b3561b-74a3-41f2-af7e-2a86045d5bc5,bellamy.mortgage,available,65.98,76.98,medium,low,7,namecheap,,,28/09/2026 12:15
 c8ddbae5-1496-4c27-9afc-6f204e6afded,acarpelous.mortgage,available,14.99,81.99,medium,low,10,name.com,,,
 ffa04d14-8e77-4aa4-b2bb-824346ce0e52,scaled.mortgage,available,62.99,62.99,high,low,6,namesilo,,,09/09/2026 22:20
 9f054552-d2dd-4e52-a24c-a81360cab7e8,nimitz.mortgage,available,62.99,62.99,medium,low,6,namesilo,,,17/09/2026 08:52
-46b8daed-d2f1-4832-931b-212ebd80ecf7,big.mortgage,premium,520,520,high,medium,3,namecheap,,,21/09/2026 20:03
+46b8daed-d2f1-4832-931b-212ebd80ecf7,big.mortgage,premium,520,520,high,medium,3,namecheap,,,28/09/2026 20:07
 101c17c7-8524-439e-851d-053e5cfdda9a,bailiwick.mortgage,available,14.99,81.99,medium,low,9,name.com,,,21/09/2026 19:08
+c921a1ae-145c-4874-965a-f7d9a8bfbe25,punching.mortgage,available,48.2,48.2,medium,low,8,cloudflare,,,29/09/2026 00:06
 573a77ba-aeb6-4976-a311-641f217b3c16,sluttish.mortgage,available,14.99,81.99,medium,low,8,name.com,,,10/08/2026 15:45
 c5508702-3a9c-4a84-96a2-6610fc5166bd,sec.mortgage,available,62.99,62.99,high,low,3,namesilo,,,27/09/2026 19:20
 b937dff8-c05b-4c49-b33a-bfbe1213b30b,leftover.mortgage,available,14.99,81.99,high,low,8,name.com,,,22/08/2026 22:41
@@ -381,6 +406,7 @@ de33789f-0d90-4073-ad7a-ae931bdb1719,adduct.mortgage,available,62.99,62.99,mediu
 68beb26e-e89b-4ac5-9601-6b4355d653a8,environment.mortgage,available,65.98,76.98,high,low,11,namecheap,,,28/09/2026 03:49
 6935ad40-2521-42c8-9a59-870afa6a5c09,neglected.mortgage,available,14.99,81.99,medium,low,9,name.com,,,21/08/2026 18:36
 70057b88-d6fd-49a8-97d2-508b3111b0a3,janice.mortgage,available,62.99,62.99,high,low,6,namesilo,,,27/09/2026 19:53
+9c736c43-4905-4259-9397-6dcf597291e6,yuma.mortgage,premium,207.2,207.2,high,low,4,spaceship,,,28/09/2026 11:07
 6758ba2e-fe48-4c40-ac23-bf1064af68d5,geometry.mortgage,available,14.99,,high,low,8,name.com,,,
 0434ffd0-ab65-49dd-889e-2b43e0a33f48,attacking.mortgage,available,8.24,51.58,medium,low,9,dynadot,,,27/09/2026 23:17
 ae5877e5-0d48-483c-bf99-534d3c3a4e02,ashe.mortgage,available,62.99,62.99,high,low,4,namesilo,,,20/09/2026 10:46
@@ -397,6 +423,7 @@ f92a6c6c-6a22-48ae-a992-55745f4ffe6f,fitly.mortgage,available,62.99,62.99,medium
 3de83962-28e9-4af0-a8cc-55387a6f82a5,drippage.mortgage,available,62.99,62.99,medium,low,8,namesilo,,,14/09/2026 14:34
 101790e0-daca-40fc-883b-9b260dc09eeb,minutely.mortgage,available,62.99,62.99,medium,low,8,namesilo,,,15/09/2026 15:04
 b61d74f4-b87d-4171-b0b6-49d3d094e9ec,aroid.mortgage,available,14.99,81.99,medium,low,5,name.com,,,06/08/2026 11:30
+eb602ae8-7e15-40e4-91b4-fed68085f302,cobra.mortgage,available,62.99,62.99,medium,low,5,namesilo,,,28/09/2026 13:44
 bbcf905d-1399-48bf-be8f-a8fab3a2edac,realize.mortgage,available,62.99,62.99,high,low,7,namesilo,,,27/09/2026 05:56
 4c381dce-31f0-49a4-ac4e-28c9d5bb9846,pricing.mortgage,available,14.99,,high,low,7,name.com,,,
 03bb6fb6-b263-4e20-805d-fa043f52aa47,hindoo.mortgage,available,14.99,81.99,medium,low,6,name.com,,,21/08/2026 09:33
@@ -406,6 +433,7 @@ bbcf905d-1399-48bf-be8f-a8fab3a2edac,realize.mortgage,available,62.99,62.99,high
 a378c150-1156-4049-950e-d8f5c7b291da,nathaniel.mortgage,available,62.99,62.99,medium,low,9,namesilo,,,25/09/2026 14:50
 a59381e2-dba7-4903-a7ce-8bee61447a07,akhbari.mortgage,available,62.99,62.99,medium,low,7,namesilo,,,17/09/2026 23:56
 4613fe2e-002f-49f6-a282-3448a7cc3e4a,governance.mortgage,available,14.99,81.99,high,low,10,name.com,,,20/08/2026 17:22
+c528cf0d-020d-47c3-ab76-886bd63c0363,algebras.mortgage,available,65.98,76.98,low,low,8,namecheap,,,28/09/2026 13:28
 e2f69c55-e0df-426c-8055-b7979b9ae870,phonetic.mortgage,available,65.98,76.98,high,low,8,namecheap,,,08/09/2026 19:04
 266ee83a-9840-400a-8d25-920a81fce123,sorrow.mortgage,available,48.2,48.2,medium,low,6,cloudflare,,,28/09/2026 06:39
 c5d3b54d-1145-4b56-8b98-2a7bd67078b0,cellini.mortgage,available,62.99,62.99,medium,low,7,namesilo,,,23/09/2026 08:47
@@ -416,6 +444,8 @@ f990bd5e-e685-4b0f-b0d9-f68ae56a7439,parked.mortgage,available,62.99,62.99,high,
 b51f06ba-ed35-444a-a185-01f5d208e864,whiney.mortgage,available,62.99,62.99,medium,low,6,namesilo,,,09/09/2026 08:35
 10fd8a39-2b20-46d1-a1f4-392564ad1aed,sack.mortgage,available,62.99,62.99,high,low,4,namesilo,,,03/09/2026 15:56
 4722440c-2402-4d53-9ddc-474e55ce9395,sainted.mortgage,available,14.99,81.99,high,low,7,name.com,,,
+8ccd85df-6b7a-4c17-b7ac-7e4911b88df8,occurs.mortgage,available,48.2,48.2,medium,low,6,cloudflare,,,28/09/2026 17:56
+a7c53d32-ca40-4644-af27-9f5a5f10ee38,seo.mortgage,premium,414.2,414.2,high,medium,3,spaceship,,,28/09/2026 17:30
 7979ca35-373e-4bf2-b47f-deefddbaf998,spic.mortgage,available,14.99,81.99,medium,low,4,name.com,,,21/08/2026 20:44
 33bb4e2c-8f15-4542-b3a0-d6bd413b7d2d,regulations.mortgage,available,62.99,62.99,medium,low,11,namesilo,,,28/09/2026 04:25
 fafbeceb-80f8-4dc1-89b2-97567ebb23b7,inviting.mortgage,available,65.98,76.98,high,low,8,namecheap,,,25/09/2026 11:14
@@ -429,7 +459,7 @@ dddf3213-4200-4962-9d84-b764b24cf0dd,gone.mortgage,available,62.99,62.99,high,lo
 a7de27ed-bdcd-42b4-b278-e881f1490491,bugged.mortgage,available,62.99,62.99,medium,low,6,namesilo,,,23/09/2026 10:21
 94baeaa0-758b-40a1-b816-578c3af9431a,undue.mortgage,available,14.99,81.99,medium,low,5,name.com,,,17/08/2026 16:19
 a9de444b-ef41-4332-8991-35624db76ff4,locker.mortgage,available,62.99,62.99,high,low,6,namesilo,,,25/09/2026 06:06
-ef2b101e-d766-4ee3-ad64-cef2f4cde5e8,member.mortgage,available,14.99,,high,low,6,name.com,,,
+ef2b101e-d766-4ee3-ad64-cef2f4cde5e8,member.mortgage,available,49.88,49.88,high,low,6,spaceship,,,28/09/2026 21:54
 d35b4fcc-a8f8-4507-a773-61a60658e969,releasing.mortgage,available,62.99,62.99,high,low,9,namesilo,,,09/09/2026 13:32
 c7a99b8b-d18c-4ecb-a4d4-1c715ce6d60e,calculations.mortgage,premium,242,242,high,low,12,namesilo,,,17/09/2026 02:07
 881c8671-1e92-47c7-99dd-2135ccc2a81d,danger.mortgage,available,14.99,,high,low,6,name.com,,,
@@ -441,11 +471,14 @@ d784b730-0ea6-443f-8c5f-fa90727a2603,swerve.mortgage,available,62.99,62.99,high,
 ff9ac1e5-6fa2-431b-9332-53edf037e87d,powder.mortgage,available,62.99,62.99,high,low,6,namesilo,,,25/09/2026 23:00
 dddf4690-d0ef-4106-a637-5d595adde490,papaw.mortgage,available,62.99,62.99,medium,low,5,namesilo,,,20/09/2026 14:12
 85d97360-06c4-4d97-a6c3-432db27fe40a,helps.mortgage,available,65.98,76.98,high,low,5,namecheap,,,25/09/2026 21:19
+7a264a1e-4708-4bbe-be39-07c7d91cf652,massacre.mortgage,available,8.24,49.95,medium,low,8,porkbun,,,28/09/2026 18:34
+7c5a6cdc-a205-4c68-9e6f-d72e5f0479d7,reichstag.mortgage,available,49.88,49.88,medium,low,9,spaceship,,,28/09/2026 16:30
 0d1969ab-f4fe-49de-a3db-aa1308db22ab,foreshadow.mortgage,available,62.99,62.99,high,low,10,namesilo,,,21/09/2026 03:32
 9999e5e1-1232-42a1-8e3e-48960153f570,clubable.mortgage,available,14.99,81.99,medium,low,8,name.com,,,12/08/2026 12:57
 9c97fdc6-680b-4a4b-b288-dfc629a93b8f,propranolol.mortgage,available,62.99,62.99,high,low,11,namesilo,,,20/09/2026 00:29
 1a83ddcf-bac5-4661-b874-e94adca20e64,sublunary.mortgage,available,14.99,81.99,medium,low,9,name.com,,,12/08/2026 08:28
 be3793eb-e6dc-4a2c-a732-b05b6319bb53,relief.mortgage,premium,512,512,high,low,6,namesilo,,,28/09/2026 04:47
+97f55a4c-c6e4-4a8a-b9a1-d1257473d0df,handles.mortgage,available,48.2,48.2,medium,low,7,cloudflare,,,28/09/2026 13:13
 b56af3d8-70ed-4d0c-8119-5169483906db,iraki.mortgage,available,14.99,81.99,medium,low,5,name.com,,,22/08/2026 09:37
 28183372-4643-45a1-ab2d-446dcbfa2967,deeply.mortgage,available,14.99,81.99,medium,low,6,name.com,,,13/08/2026 22:30
 4df5ed1e-c888-4a4e-ba3a-8094f6de3904,peckish.mortgage,available,14.99,81.99,medium,low,7,name.com,,,22/08/2026 10:23
@@ -467,10 +500,12 @@ d90c3780-f478-4558-aa2a-2ecbc38d78d0,zaftig.mortgage,available,62.99,62.99,mediu
 35ce109a-76a8-40a4-a24e-fdb460b7ac0b,abstracter.mortgage,available,65.98,76.98,medium,low,10,namecheap,,,16/09/2026 18:30
 5c157836-f02c-40d6-b895-d4e1049e4bb9,piddling.mortgage,available,14.99,81.99,medium,low,8,name.com,,,18/08/2026 03:33
 e7339e77-f6ae-45ad-bc10-06363f6ac9ce,liegeman.mortgage,available,14.99,81.99,medium,low,8,name.com,,,18/08/2026 03:05
+f40fd790-8469-4e29-86ef-ae34cdfc0fd8,atherton.mortgage,premium,102.67,102.67,medium,low,8,spaceship,,,28/09/2026 09:10
 220d0865-4252-46c7-ab9a-02814256098f,asymptotic.mortgage,available,14.99,81.99,medium,low,10,name.com,,,07/08/2026 10:30
 ba2d8d19-0282-4751-9f3d-bddb7bf0fec2,aubergine.mortgage,available,62.99,62.99,high,low,9,namesilo,,,21/09/2026 02:33
 dbcb8973-6fb1-467d-b08c-0be6d93853a4,pizzeria.mortgage,available,14.99,,high,low,8,name.com,,,
 4e28d4e6-27e8-4850-94a5-5939d2ce2192,prospering.mortgage,available,14.99,81.99,medium,low,10,name.com,,,10/08/2026 19:17
+728025e3-fa4d-4dc8-8de6-2079b6165c4f,conceived.mortgage,available,62.99,62.99,medium,low,9,namesilo,,,28/09/2026 22:54
 6c30215a-8d45-41c6-81be-dc37a6fa5899,stepwise.mortgage,available,14.99,81.99,high,low,8,name.com,,,10/08/2026 07:12
 6456b99e-3033-4375-8be0-322c9044cdce,carat.mortgage,available,62.99,62.99,high,low,5,namesilo,,,24/09/2026 12:45
 a4b6f084-6f16-47d0-ae49-4e2eca67ea3b,facilitation.mortgage,available,62.99,62.99,high,low,12,namesilo,,,17/09/2026 01:02
@@ -493,6 +528,7 @@ fe24bebc-7d71-429e-a719-355edc2992be,auxiliary.mortgage,available,14.99,81.99,hi
 2fb525ba-dd7d-494c-a6e7-5b13e226613d,november.mortgage,available,14.99,,high,low,8,name.com,,,
 405afd91-bc5a-40ca-b78d-476660873346,crumpled.mortgage,available,14.99,81.99,medium,low,8,name.com,,,13/08/2026 09:06
 177f27a0-9979-4645-9013-9675711c4811,microbic.mortgage,available,14.99,81.99,medium,low,8,name.com,,,24/08/2026 22:21
+4c6c9606-a58f-41cd-8533-160ad5ca0e4d,conditioning.mortgage,available,8.24,51.58,high,low,12,dynadot,,,28/09/2026 12:54
 2c8e87ed-b4cd-4607-8030-53fa27d3094b,vanilla.mortgage,available,62.99,62.99,high,low,7,namesilo,,,13/09/2026 01:08
 9010217e-3d00-47b5-a2a0-ddb01c4cb69f,biotitic.mortgage,available,14.99,81.99,medium,low,8,name.com,,,10/08/2026 03:33
 2d5a0f8d-d40c-4157-aa71-1d1deb45e471,abidance.mortgage,available,65.98,76.98,medium,low,8,namecheap,,,16/09/2026 15:33
@@ -515,8 +551,9 @@ d6eacebb-54c2-4028-90c8-1aa5a9237fd0,busybodied.mortgage,available,14.99,81.99,m
 e0952c9d-e404-4ee1-acac-c69f8277fff2,xxviii.mortgage,available,14.99,81.99,medium,low,6,name.com,,,
 cf315c41-6fab-430b-881e-268ed24ac6ab,fungal.mortgage,available,14.99,81.99,medium,low,6,name.com,,,18/08/2026 18:28
 faddcd73-5bd4-4aa5-95e8-7e8bf9f7d801,miocene.mortgage,available,62.99,62.99,high,low,7,namesilo,,,25/09/2026 23:43
+e39286d7-5ad7-4ec2-b02f-64283b60cd9d,montclair.mortgage,available,8.24,49.95,medium,low,9,porkbun,,,29/09/2026 04:37
 748f35d5-fdaa-4f5a-a60f-09bd0b0618d8,fledgeling.mortgage,available,14.99,81.99,medium,low,10,name.com,,,18/08/2026 07:32
-971221d4-d57e-4e35-968f-2dc346d2e34c,medicine.mortgage,available,62.99,62.99,high,low,8,namesilo,,,25/09/2026 22:51
+971221d4-d57e-4e35-968f-2dc346d2e34c,medicine.mortgage,available,48.2,48.2,high,low,8,cloudflare,,,28/09/2026 15:30
 7797e9fd-3b2c-46a0-98cc-f63e381e1465,charily.mortgage,available,62.99,62.99,medium,low,7,namesilo,,,14/09/2026 06:17
 b97720d4-2a47-4f2c-8d93-83bfe6f2c038,alcibiades.mortgage,available,62.99,62.99,medium,low,10,namesilo,,,18/09/2026 04:00
 9751e222-fe40-487f-aa60-a0d6ccb1e0e9,naacp.mortgage,available,62.99,62.99,medium,low,5,namesilo,,,25/09/2026 13:20
@@ -528,12 +565,13 @@ fcc4eae1-fe82-4186-a0fa-beaca180619c,hearsay.mortgage,available,14.99,81.99,medi
 c5979820-a86f-4b1d-957a-725c01da1c69,bissau.mortgage,available,62.99,62.99,medium,low,6,namesilo,,,23/09/2026 22:06
 db681355-9d41-4384-bd6d-576293f1e70a,recall.mortgage,available,62.99,62.99,high,low,6,namesilo,,,24/09/2026 11:46
 fa3ea0a5-0ebe-41b5-ba58-345312237004,cumulous.mortgage,available,14.99,81.99,medium,low,8,name.com,,,13/08/2026 10:30
-ce1f81e9-dd0d-4c07-aa23-ad82cf6d8629,tobacco.mortgage,available,14.99,,medium,low,7,name.com,,,
+ce1f81e9-dd0d-4c07-aa23-ad82cf6d8629,tobacco.mortgage,available,62.99,62.99,medium,low,7,namesilo,,,29/09/2026 00:12
 a7c07de6-cf03-42ef-b0df-b36c415f750b,outback.mortgage,available,62.99,62.99,high,low,7,namesilo,,,26/09/2026 03:21
+c77cbcfb-9ebc-4929-a666-274118978dd2,manufacturer.mortgage,available,49.88,49.88,medium,low,12,spaceship,,,28/09/2026 20:59
 1d3aa280-d38c-4ea3-95f7-6bee03fae413,acned.mortgage,available,14.99,81.99,low,low,5,name.com,,,
 14273aba-6127-435f-8207-1fccf29e7c8c,paschal.mortgage,available,62.99,62.99,medium,low,7,namesilo,,,08/09/2026 02:20
 06e8c9e1-75bc-4436-ad81-93c32953a300,miry.mortgage,available,14.99,81.99,medium,low,4,name.com,,,10/08/2026 17:05
-46840cb1-2f73-446b-bbf3-6c15b203f310,mix.mortgage,available,62.99,62.99,high,medium,3,namesilo,,,22/09/2026 03:09
+46840cb1-2f73-446b-bbf3-6c15b203f310,mix.mortgage,available,65.98,76.98,high,medium,3,namecheap,,,29/09/2026 03:11
 a6f99ce2-a834-4a21-bdde-4fb8ae7a2d52,recreation.mortgage,available,62.99,62.99,high,low,10,namesilo,,,24/09/2026 23:18
 ebca82dd-7127-4176-8cc6-3088d3581f89,intended.mortgage,available,62.99,62.99,high,low,8,namesilo,,,25/09/2026 09:53
 62d6a1fe-3974-4eba-9d82-386cae49a889,nonzero.mortgage,available,14.99,81.99,high,low,8,name.com,,,03/09/2026 18:39
@@ -547,11 +585,13 @@ ad86f61d-7cd4-4376-ac03-bcce85ab74f8,coptic.mortgage,available,14.99,81.99,high,
 605fdd3d-21d6-487d-b208-b00fffaa3832,tilled.mortgage,available,62.99,62.99,medium,low,6,namesilo,,,11/09/2026 15:57
 3b5e2505-d6b0-4028-88b8-3a295f8b2b1d,tasked.mortgage,available,62.99,62.99,medium,low,6,namesilo,,,20/09/2026 17:24
 d1644e55-93fe-4d07-a6bd-7481890fed5e,dining.mortgage,available,14.99,,high,low,6,name.com,,,
+541fa19d-21ad-4143-b4c1-196a836b5103,fled.mortgage,available,62.99,62.99,low,low,4,namesilo,,,28/09/2026 12:32
 034ca628-51ec-4fa4-b66d-7c4ee4d77a00,bain.mortgage,available,65.98,76.98,high,low,4,namecheap,,,28/09/2026 07:18
 ea6f59d4-be7e-46d6-9fee-3f72598fbfe5,bricks.mortgage,available,14.99,,high,low,6,name.com,,,
 eb2fb746-5ce8-4cd0-96b2-86a6fb5ebd00,then.mortgage,available,49.88,49.88,high,low,4,spaceship,,,28/09/2026 02:27
 27ebb8b1-4aae-4045-911e-d3d329cc7276,smug.mortgage,available,62.99,62.99,high,low,4,namesilo,,,10/09/2026 02:05
 0de0a49f-1eb1-4d29-8b8f-ab2cd04278f2,picker.mortgage,available,62.99,62.99,medium,low,6,namesilo,,,24/09/2026 14:45
+64e5762f-c577-46c8-85ba-6ae8efcf8a18,captains.mortgage,available,62.99,62.99,medium,low,8,namesilo,,,28/09/2026 23:33
 c6e5062c-7b06-4504-bac5-411276437291,wedding.mortgage,premium,242,242,high,low,7,namesilo,,,
 b59d5aad-c85b-4d0a-9429-474082984137,copasetic.mortgage,available,14.99,81.99,medium,low,9,name.com,,,13/08/2026 00:20
 af039322-4e4f-4c3b-8b7d-1afcaff6232c,frore.mortgage,available,14.99,81.99,low,low,5,name.com,,,18/08/2026 16:21
@@ -574,8 +614,10 @@ f9300268-0f2d-42a1-88ce-adb1a84f84c5,eyry.mortgage,available,14.99,81.99,high,lo
 a579027c-c0c8-4e67-8d8a-b4fd27fa7077,cognisance.mortgage,available,62.99,62.99,high,low,10,namesilo,,,21/09/2026 09:57
 91b81a96-2c69-464f-8134-f2e4a15d15d6,chartered.mortgage,available,14.99,81.99,high,low,9,name.com,,,12/08/2026 02:47
 9f9408fd-5a39-4255-b3bc-ef4a5c84f521,pumpkin.mortgage,available,62.99,62.99,high,low,7,namesilo,,,21/09/2026 08:26
-639a2ea8-9ebe-48ec-a9c6-2a32baebff1e,previously.mortgage,available,14.99,,high,low,10,name.com,,,
+639a2ea8-9ebe-48ec-a9c6-2a32baebff1e,previously.mortgage,available,49.88,49.88,medium,low,10,spaceship,,,28/09/2026 12:13
+6c8593a6-f212-45bb-81c7-1bd8c96052dd,kerala.mortgage,available,62.99,62.99,medium,low,6,namesilo,,,28/09/2026 16:15
 722b53b3-c213-4a0f-b553-4a38f078f911,thrilled.mortgage,available,62.99,62.99,high,low,8,namesilo,,,11/09/2026 14:36
+0023724c-f0cc-4e08-a097-eb9e8f804cd4,mushroom.mortgage,available,49.88,49.88,high,low,8,spaceship,,,28/09/2026 14:57
 21ec78d2-99c7-4630-8a88-be0bdad5205f,bootlicker.mortgage,available,65.98,76.98,medium,low,10,namecheap,,,19/09/2026 21:12
 5bae018f-e9f3-4aaa-bf3a-1bfcef159ba9,materially.mortgage,available,62.99,62.99,medium,low,10,namesilo,,,15/09/2026 13:37
 d3c45bb7-ee0a-4775-927b-bde21ec9205f,habits.mortgage,available,62.99,62.99,medium,low,6,namesilo,,,28/09/2026 04:46
@@ -583,10 +625,11 @@ d3c45bb7-ee0a-4775-927b-bde21ec9205f,habits.mortgage,available,62.99,62.99,mediu
 7ebc9f13-3ffd-43a5-a4b1-a73a6a808a48,fiendish.mortgage,available,14.99,81.99,medium,low,8,name.com,,,14/08/2026 01:31
 e3980822-d455-4db1-86c5-497d900ec38d,wintertime.mortgage,available,14.99,,high,low,11,name.com,,,
 7407780b-16ed-4ba9-a15c-1e34ca31c480,unassuming.mortgage,available,62.99,62.99,high,low,10,namesilo,,,27/09/2026 13:26
+2509a206-533c-48fa-8d75-932bcd997e54,ric.mortgage,available,62.99,62.99,medium,low,3,namesilo,,,28/09/2026 15:49
 47e028c8-cd79-4ff4-a9e4-bb05ccc6a99e,mouth.mortgage,available,49.88,49.88,high,low,5,spaceship,,,28/09/2026 08:01
 093b3004-9c3d-447c-9f93-d041171cc39e,hume.mortgage,available,65.98,76.98,high,low,4,namecheap,,,25/09/2026 04:46
 b07ef46e-8418-46c7-baea-75903d3e217e,ncaa.mortgage,available,65.98,76.98,high,low,4,namecheap,,,27/09/2026 07:11
-84025ff3-2fda-46bd-b112-8b391b6715a0,aboard.mortgage,available,62.99,62.99,medium,low,6,namesilo,,,27/09/2026 02:14
+84025ff3-2fda-46bd-b112-8b391b6715a0,aboard.mortgage,available,49.88,49.88,high,low,6,spaceship,,,28/09/2026 11:33
 3d5a9707-40bb-4c5f-8aef-801e19fe6934,xvi.mortgage,available,62.99,62.99,medium,low,3,namesilo,,,21/09/2026 11:49
 42a60e27-c97d-4456-a812-e44a2521d284,stupidity.mortgage,available,62.99,62.99,medium,low,9,namesilo,,,23/09/2026 11:18
 512e1c80-714c-47a7-be9d-6adf132073c0,decolor.mortgage,available,65.98,76.98,medium,low,7,namecheap,,,24/09/2026 05:10
@@ -602,10 +645,11 @@ a1e65b7f-f5d7-4060-a23a-634e72fb43be,despondent.mortgage,available,62.99,62.99,m
 be4f6f0b-d454-4556-a4f8-3758222d8ec5,appendix.mortgage,available,65.98,76.98,high,low,8,namecheap,,,19/09/2026 20:40
 1bdd7013-4b3d-4afb-a17f-89f17dd76744,hurts.mortgage,available,49.88,49.88,medium,low,5,spaceship,,,27/09/2026 23:53
 111da3b1-239e-4c15-8352-d30cacd8002a,septic.mortgage,available,14.99,81.99,high,low,6,name.com,,,22/08/2026 04:07
-ee285365-edeb-49c8-b38f-c06000374f4b,practiced.mortgage,available,62.99,62.99,high,low,9,namesilo,,,21/09/2026 17:21
+ee285365-edeb-49c8-b38f-c06000374f4b,practiced.mortgage,available,65.98,76.98,high,low,9,namecheap,,,29/09/2026 02:32
 780f1aec-2975-4093-8342-f6316894cda9,prefigure.mortgage,available,62.99,62.99,medium,low,9,namesilo,,,21/09/2026 03:35
 03979452-47f1-4707-ac9f-424eabfd341d,venushair.mortgage,available,62.99,62.99,medium,low,9,namesilo,,,17/09/2026 08:07
 c3e5ad24-3276-4d0c-86a0-b17b692f8efe,brainwash.mortgage,available,14.99,,high,low,9,name.com,,,
+07f8f33b-679c-4f4f-8140-27b797a84492,diesel.mortgage,available,62.99,62.99,high,low,6,namesilo,,,28/09/2026 09:31
 9d399db5-019b-476a-bbdc-500534ed2ae7,squeaking.mortgage,available,62.99,62.99,medium,low,9,namesilo,,,10/09/2026 00:03
 c6d95124-d47d-4c10-b804-7f5eb5497170,clear.mortgage,resell,,,high,medium,5,"Sav.com, LLC",03/08/2026 18:12,03/08/2027 18:12,26/09/2026 04:58
 4414c13b-a6cf-45fd-90f7-ed4bd47d76f0,sse.mortgage,available,62.99,62.99,high,low,3,namesilo,,,16/09/2026 05:18
@@ -661,9 +705,11 @@ fff23314-f421-4b48-b60a-33fe2e851d25,zhou.mortgage,available,62.99,62.99,high,lo
 ff8d6411-564b-4168-81ce-db9942e41be8,subfusc.mortgage,available,14.99,81.99,medium,low,7,name.com,,,10/09/2026 23:47
 7443020f-c128-4fb5-8b83-3c67940b84e1,beds.mortgage,available,49.88,49.88,high,low,4,spaceship,,,27/09/2026 18:14
 e8d00257-a856-4782-bb38-e35f290eefe3,nauseous.mortgage,available,14.99,81.99,medium,low,8,name.com,,,24/08/2026 08:24
+ffd4b48f-81ff-4d07-8405-f425bfc3764e,challenged.mortgage,available,62.99,62.99,medium,low,10,namesilo,,,28/09/2026 11:21
 0f535e27-3879-437f-a43b-6bbfaefb9a8f,goes.mortgage,available,65.98,76.98,high,low,4,namecheap,,,25/09/2026 16:38
 0cbfe252-e66b-4f84-93aa-cff7a667b023,shakedown.mortgage,available,62.99,62.99,medium,low,9,namesilo,,,10/09/2026 05:40
 76c3a668-bd83-4bb4-920e-02b854984919,bin.mortgage,available,62.99,62.99,high,low,3,namesilo,,,16/09/2026 13:43
+a6654d9a-1990-483d-9026-a736cf19abc5,edit.mortgage,available,62.99,62.99,high,low,4,namesilo,,,29/09/2026 02:42
 5ed7bed5-c188-4195-a41e-cf09df63bee5,boast.mortgage,available,14.99,81.99,high,low,5,name.com,,,11/08/2026 01:02
 440b86ba-aaea-4bf7-b42e-a5da73e9f6bf,parsimony.mortgage,available,62.99,62.99,high,low,9,namesilo,,,08/09/2026 14:39
 87774e6b-356d-4dcb-971c-c50629ce323e,virgin.mortgage,premium,118.8,118.8,high,medium,6,namesilo,,,13/09/2026 05:55
@@ -674,16 +720,23 @@ fe100509-ef96-446d-a59e-bb6ee51c3367,expression.mortgage,available,14.99,,high,l
 e995e03a-ce1c-4432-b99d-663eb17ccd7f,dissection.mortgage,available,62.99,62.99,high,low,10,namesilo,,,24/09/2026 23:04
 399adf26-ae78-4516-b053-400e6412410c,coeval.mortgage,available,14.99,81.99,medium,low,6,name.com,,,12/08/2026 15:28
 3d0afb82-31fc-44a6-ad4d-32438e987405,touchy.mortgage,available,14.99,81.99,medium,low,6,name.com,,,21/08/2026 14:42
+47fb7387-6487-43c1-b665-f63e9c450b51,flashing.mortgage,available,48.2,48.2,medium,low,8,cloudflare,,,28/09/2026 19:14
+623f44f4-d6ce-4cac-8a05-8dc4b34e71d2,raid.mortgage,available,62.99,62.99,high,low,4,namesilo,,,28/09/2026 09:48
 ba387d19-f027-441e-96fb-59341740b0f8,revenge.mortgage,available,62.99,62.99,high,low,7,namesilo,,,25/09/2026 10:18
+6f2ee20c-0ee9-41d3-bd14-7d3a25081867,sewing.mortgage,available,65.98,76.98,high,low,6,namecheap,,,28/09/2026 10:54
 336349af-d0df-4d63-adbe-a327077517cf,adalia.mortgage,available,62.99,62.99,medium,low,6,namesilo,,,17/09/2026 06:12
 d7b738e3-7ed1-4018-a860-d94d7ec56671,rasp.mortgage,available,62.99,62.99,medium,low,4,namesilo,,,19/09/2026 15:15
 f0ad90d1-8f60-499d-a4af-ccd1f7cda6fd,cruel.mortgage,available,62.99,62.99,high,low,5,namesilo,,,22/09/2026 17:21
 6fc8a949-552e-4aa5-af32-82af07a9431e,strength.mortgage,available,62.99,62.99,high,low,8,namesilo,,,19/09/2026 17:18
 9ac7364a-1916-4d16-8faf-01e0a8e3afd2,reno.mortgage,premium,260,260,high,low,4,namecheap,,,28/09/2026 06:40
 64979486-99c7-43fb-9742-fbfa5aa0a694,basal.mortgage,available,14.99,81.99,high,low,5,name.com,,,08/08/2026 21:24
+c6423bd8-6dc8-4850-9971-d61df8b0b1f8,newark.mortgage,premium,1100,1100,medium,low,6,dynadot,,,28/09/2026 19:59
+7592b633-473e-44f1-9198-e7c432ab594f,martini.mortgage,available,62.99,62.99,high,low,7,namesilo,,,28/09/2026 14:50
 655d491a-1bc9-4663-be0b-eac5bd39ce32,opened.mortgage,available,62.99,62.99,high,low,6,namesilo,,,04/09/2026 16:13
 95fc9b2a-acfb-4f86-a486-c49d0f54fd1b,crusty.mortgage,available,14.99,81.99,medium,low,6,name.com,,,13/08/2026 09:26
+ba12f07b-ff1c-4aba-9dac-6f900176e20c,antrim.mortgage,available,49.88,49.88,medium,low,6,spaceship,,,28/09/2026 16:38
 433969b2-f117-498e-9ef8-1a345b85a048,chop.mortgage,available,14.99,,medium,low,4,name.com,,,
+3ed6c11b-ef08-4b76-9682-dfe15e665cd6,thebes.mortgage,available,8.24,51.58,medium,low,6,dynadot,,,28/09/2026 11:00
 9b969d01-6724-4985-8695-9a2ece55ea03,construct.mortgage,available,14.99,81.99,high,low,9,name.com,,,24/09/2026 10:59
 c7a6de31-3e2f-4d5c-981f-eda71d6afc4c,shakespeare.mortgage,available,14.99,,high,low,11,name.com,,,
 5d846ed9-7c46-4087-a546-c5fe93fe5997,modeling.mortgage,available,62.99,62.99,high,low,8,namesilo,,,24/09/2026 15:25
@@ -694,6 +747,8 @@ aa26d5c8-0811-4240-9342-50c55788a697,saucy.mortgage,available,14.99,81.99,high,l
 af23d705-1b4a-4a17-88a0-1bd1367ee92e,reservations.mortgage,available,62.99,62.99,medium,low,12,namesilo,,,17/09/2026 23:30
 ee691a57-0f1f-446e-a159-9c603d3bc5c5,luxembourg.mortgage,available,,,high,high,10,,,,
 1f211fa4-2afb-449a-9d63-406e0bd28200,persistent.mortgage,available,14.99,81.99,high,low,10,name.com,,,14/08/2026 14:58
+08300096-6e85-4567-9574-4e95b083688a,inclined.mortgage,available,48.2,48.2,medium,low,8,cloudflare,,,28/09/2026 21:12
+36335b77-6ff3-4961-972f-59ecb326a2f3,flank.mortgage,available,65.98,76.98,medium,low,5,namecheap,,,28/09/2026 19:13
 f9e7666b-2f58-4341-a9dc-b48058473729,loco.mortgage,available,14.99,81.99,high,low,4,name.com,,,06/08/2026 21:13
 a027683b-418e-46d6-8738-6443979cf555,colonic.mortgage,available,14.99,81.99,medium,low,7,name.com,,,12/08/2026 17:22
 b280c131-0117-439c-b70a-bf6f9bd2ab94,return.mortgage,available,62.99,62.99,high,low,6,namesilo,,,19/09/2026 03:27
@@ -703,7 +758,7 @@ e5868a98-9a8b-4075-a989-aad0f254a7e9,vested.mortgage,available,62.99,62.99,high,
 34a4d606-2522-4973-8f95-81ab0a818649,fettered.mortgage,available,14.99,81.99,medium,low,8,name.com,,,18/08/2026 02:54
 582f637a-73b3-4437-bee5-124c5c80213a,republican.mortgage,available,62.99,62.99,high,low,10,namesilo,,,09/09/2026 14:43
 597b7aeb-a896-4037-98e4-6364f9ca7135,schneider.mortgage,available,14.99,,high,low,9,name.com,,,
-b872d40f-8dba-476a-bd9d-79e97f5fe93a,dominance.mortgage,available,14.99,,high,low,9,name.com,,,
+b872d40f-8dba-476a-bd9d-79e97f5fe93a,dominance.mortgage,available,62.99,62.99,high,low,9,namesilo,,,28/09/2026 22:25
 9622c70b-6ce1-4513-8fad-2072ef6e926f,arak.mortgage,available,62.99,62.99,medium,low,4,namesilo,,,19/09/2026 23:47
 73968e88-a5d6-435a-9ae6-f26f6c78ee32,privy.mortgage,available,62.99,62.99,high,low,5,namesilo,,,09/09/2026 02:12
 865b61d2-f780-49c6-841c-07a9bee5b969,quarto.mortgage,available,62.99,62.99,medium,low,6,namesilo,,,16/09/2026 12:37
@@ -757,9 +812,11 @@ e54c577f-2562-4905-9f79-1456566b5784,designate.mortgage,available,14.99,81.99,hi
 a479c980-b5e4-4d09-bef7-c5d6b4fe9636,contextual.mortgage,available,14.99,81.99,high,low,10,name.com,,,12/08/2026 23:13
 9156d481-5de7-441e-baca-89ec4dae44c7,rollover.mortgage,available,65.98,76.98,high,low,9,namecheap,,,16/09/2026 17:22
 b87ee524-113a-4382-b1a0-8081e8cd6b31,mantic.mortgage,available,14.99,81.99,medium,low,6,name.com,,,14/08/2026 13:48
+f9fc6f2f-6135-469d-af4e-b8e454c058ed,hypothetical.mortgage,available,8.24,49.95,medium,low,12,porkbun,,,29/09/2026 02:54
 4ac170b7-1031-4eac-b598-b9d534a2dca5,mackenzie.mortgage,available,62.99,62.99,high,low,9,namesilo,,,25/09/2026 21:54
 9e0141d2-f0c9-422e-9217-98983550433c,ludicrous.mortgage,available,14.99,81.99,medium,low,9,name.com,,,14/08/2026 02:58
 f9db88de-8ea2-47f4-be9d-ae9dfb4bf91c,allowable.mortgage,available,14.99,81.99,high,low,9,name.com,,,
+f8b70ad4-ac11-4d86-8ed7-43df63339916,occupational.mortgage,available,62.99,62.99,medium,low,12,namesilo,,,29/09/2026 03:01
 8a53aa7a-83b8-4ff5-85d9-5eb701362d70,westlake.mortgage,available,14.99,,high,low,8,name.com,,,
 8baf6d29-0cb0-4a63-9d58-986c1423abf8,disguised.mortgage,available,14.99,81.99,medium,low,9,name.com,,,12/08/2026 11:30
 a6c385a1-7668-4f07-9eb1-8f1221475668,fitfully.mortgage,available,62.99,62.99,medium,low,8,namesilo,,,14/09/2026 18:43
@@ -776,8 +833,10 @@ ec97c106-c670-4782-bec0-9c60bd20e2f7,auctioneer.mortgage,available,62.99,62.99,h
 63f2e1b3-2003-4049-bd72-1685f490fb8f,exactly.mortgage,available,62.99,62.99,high,low,7,namesilo,,,26/09/2026 00:15
 2374e1ee-026a-4d8b-b81f-b9242e6d02d6,anchovy.mortgage,available,62.99,62.99,high,low,7,namesilo,,,19/09/2026 03:46
 12b6816e-85a3-49ec-bb30-5e74c4555671,erectile.mortgage,available,14.99,81.99,medium,low,8,name.com,,,17/08/2026 12:07
+176ae8f2-6ba2-42ee-8bf4-9d09411c075d,miners.mortgage,available,8.24,51.58,medium,low,6,dynadot,,,28/09/2026 18:17
 733c127a-c72a-4721-b05b-d98d1265d1b6,faced.mortgage,available,14.99,81.99,high,low,5,name.com,,,17/08/2026 20:20
 91b5f4f5-6bd6-4c0d-8d1b-eb7543c75278,buff.mortgage,available,14.99,81.99,high,low,4,name.com,,,11/08/2026 07:48
+216c6229-cebc-4001-ac9a-69c9745c9ba8,northrop.mortgage,available,49.88,49.88,medium,low,8,spaceship,,,28/09/2026 10:11
 4b13271c-0499-41c2-929c-a5cd761c3745,bangalore.mortgage,available,62.99,62.99,high,low,9,namesilo,,,22/09/2026 01:45
 04ec8d7c-d523-4e6a-8e3b-113f6d7cb796,optimized.mortgage,available,49.88,49.88,high,low,9,spaceship,,,27/09/2026 22:29
 7ab4196e-7f2f-4710-bfa9-9b8e2bf47220,algometer.mortgage,available,62.99,62.99,medium,low,9,namesilo,,,18/09/2026 07:11
@@ -803,6 +862,7 @@ df15eb8f-e145-44ec-b9fc-925ae4b07347,inca.mortgage,available,14.99,81.99,high,lo
 621834b0-4d47-4571-a36d-a18751166d45,stimulus.mortgage,available,62.99,62.99,high,low,8,namesilo,,,10/09/2026 20:39
 747828ca-88d4-45dc-b242-fca1c5e50ed5,marxist.mortgage,available,14.99,81.99,high,low,7,name.com,,,10/08/2026 17:53
 6fce36fc-322b-4331-aa15-9fc54f50237c,coxa.mortgage,available,65.98,76.98,high,low,4,namecheap,,,20/09/2026 11:23
+e190064c-ac51-4963-8cd7-0e6579be1aa2,wylie.mortgage,available,49.88,49.88,medium,low,5,spaceship,,,28/09/2026 13:59
 837b3949-e378-4c38-a3e5-9c00c3ff4733,revenant.mortgage,available,62.99,62.99,high,low,8,namesilo,,,09/09/2026 12:04
 90a74c6a-17c0-4403-b241-19b1f45b29e1,whisper.mortgage,available,62.99,62.99,high,low,7,namesilo,,,13/09/2026 11:38
 454c6dfe-412c-43de-b503-0778d2690afe,annona.mortgage,available,65.98,76.98,medium,low,6,namecheap,,,19/09/2026 10:30
@@ -810,15 +870,16 @@ df15eb8f-e145-44ec-b9fc-925ae4b07347,inca.mortgage,available,14.99,81.99,high,lo
 381bbf0f-8eab-4690-be20-65addfe7e2c6,occur.mortgage,available,14.99,,high,low,5,name.com,,,
 9256095e-3107-4068-a773-5f259188702c,curved.mortgage,available,14.99,81.99,high,low,6,name.com,,,13/08/2026 11:47
 d4d52c76-0569-44a8-9cfc-85dd14ea226d,solved.mortgage,available,62.99,62.99,high,low,6,namesilo,,,10/09/2026 13:46
+cf84daae-07fa-4468-96fa-8b6c466f6b78,doubles.mortgage,available,8.24,51.58,high,low,7,dynadot,,,28/09/2026 18:58
 0f5a157a-8aec-452b-a830-d9eeed92e5ee,curvaceous.mortgage,available,14.99,81.99,medium,low,10,name.com,,,10/08/2026 20:30
 4dab47be-56a6-46d2-9da5-c2c7a2cbcf73,strengthen.mortgage,available,14.99,,high,low,10,name.com,,,
-83aa7022-39a0-4406-b8e6-d94cdbbd2dbc,academia.mortgage,available,65.98,76.98,high,low,8,namecheap,,,23/09/2026 20:23
+83aa7022-39a0-4406-b8e6-d94cdbbd2dbc,academia.mortgage,available,49.88,49.88,high,low,8,spaceship,,,28/09/2026 08:49
 41a60562-8c79-407c-b50d-350af51e211d,calibrated.mortgage,available,14.99,81.99,medium,low,10,name.com,,,11/08/2026 14:16
 adb1d944-c77c-4152-97a8-14a74fa90faf,incredibly.mortgage,available,62.99,62.99,high,low,10,namesilo,,,14/09/2026 17:21
 02a2ca11-1b48-455d-a7d6-a45bdb84efab,banner.mortgage,available,14.99,81.99,high,low,6,name.com,,,08/08/2026 13:53
 2f5ed8c2-dadb-425e-b046-11957ed9e2fb,blown.mortgage,available,14.99,81.99,medium,low,5,name.com,,,10/08/2026 15:36
 1a5c643e-243b-43e0-8b65-56e0d4a7e7a5,riffle.mortgage,available,62.99,62.99,medium,low,6,namesilo,,,12/09/2026 08:36
-feb06d4a-a3b2-4b0d-9b4e-6f4b22b2df3f,barrier.mortgage,available,14.99,,medium,low,7,name.com,,,
+feb06d4a-a3b2-4b0d-9b4e-6f4b22b2df3f,barrier.mortgage,available,49.88,49.88,medium,low,7,spaceship,,,29/09/2026 01:15
 b7feb3c3-ffcb-4d36-9026-f7c129db336c,abetter.mortgage,available,62.99,62.99,medium,low,7,namesilo,,,16/09/2026 15:19
 6272f536-6436-482e-ace7-3ed495dbfbef,comics.mortgage,available,14.99,,high,low,6,name.com,,,
 b65fc238-6e62-4ef2-98db-fbf0b88ff021,expose.mortgage,available,14.99,,high,low,6,name.com,,,
@@ -858,6 +919,7 @@ d795d847-4c2f-4f60-9643-726f7a7a9147,timing.mortgage,available,62.99,62.99,high,
 730fe70e-be07-4e48-9005-8fd7164476af,sad.mortgage,available,65.98,76.98,high,low,3,namecheap,,,24/09/2026 05:55
 59d2911a-d805-406f-9745-13f15e58f073,anglophobe.mortgage,available,62.99,62.99,medium,low,10,namesilo,,,19/09/2026 06:55
 84992787-4539-4a34-89dd-8ff33780ca70,reclaimed.mortgage,available,62.99,62.99,high,low,9,namesilo,,,09/09/2026 11:36
+37d77358-0c4f-44d4-aca7-c1dde7198c15,karlsruhe.mortgage,premium,207.2,207.2,medium,low,9,spaceship,,,28/09/2026 12:19
 25148da7-c217-420c-af30-a01dbbcc509a,september.mortgage,available,14.99,,high,low,9,name.com,,,
 a1304329-9aab-4eed-b038-bba8bd48e6c9,whalebone.mortgage,available,62.99,62.99,medium,low,9,namesilo,,,21/09/2026 21:50
 717b6216-080b-4b78-a825-059ca98e591f,quebecois.mortgage,available,62.99,62.99,medium,low,9,namesilo,,,09/09/2026 07:48
@@ -881,9 +943,11 @@ dc0797ee-dd6c-41bf-8a21-11e29d96e508,crash.mortgage,available,14.99,,high,low,5,
 e00df430-aa72-44e8-a2ba-f897260830ab,snug.mortgage,available,14.99,81.99,high,low,4,name.com,,,12/08/2026 12:11
 fc400cde-b8d8-4cac-a62d-ed46b314d88b,feast.mortgage,available,62.99,62.99,high,low,5,namesilo,,,22/09/2026 03:01
 08d76f59-f7dd-4c2d-9916-9e8c0e081c5e,horseman.mortgage,available,14.99,81.99,high,low,8,name.com,,,17/08/2026 11:44
+33e65a00-eb26-4168-beed-557fa5fbfc6a,burrows.mortgage,available,8.24,51.58,medium,low,7,dynadot,,,29/09/2026 03:16
 c4398d9d-e09b-4475-b95e-21eca25e6566,benzedrine.mortgage,available,62.99,62.99,medium,low,10,namesilo,,,23/09/2026 08:31
 5a081822-2b18-4d1f-83d1-ff157bac3d88,herds.mortgage,available,65.98,76.98,medium,low,5,namecheap,,,19/09/2026 20:40
 afc9ddab-44aa-4427-9803-e1f807043a15,amerind.mortgage,available,14.99,81.99,medium,low,7,name.com,,,
+28095ccc-1dc9-49b3-a6dd-d70de92b64e3,jenna.mortgage,available,48.2,48.2,medium,low,5,cloudflare,,,29/09/2026 04:01
 988328f7-e2f5-4221-8a4b-be57d3dcefa5,cassette.mortgage,available,14.99,,high,low,8,name.com,,,
 0ba41fe6-51e5-4cfc-8c26-aa94f48f735e,wipes.mortgage,available,65.98,76.98,medium,low,5,namecheap,,,20/09/2026 09:39
 ded05407-63ed-4217-8111-78868f071381,proustian.mortgage,available,62.99,62.99,medium,low,9,namesilo,,,09/09/2026 04:22
@@ -900,9 +964,11 @@ aec8167d-28c4-46b0-b473-d42b4c15cedc,testimony.mortgage,available,48.2,48.2,high
 fa2ed19d-a54d-4f91-b3a7-b8bf1cf6407f,kinds.mortgage,available,65.98,76.98,medium,low,5,namecheap,,,25/09/2026 19:57
 1b7f5ba4-edae-46c6-94db-c060b8dba696,espn.mortgage,available,49.88,49.88,high,low,4,spaceship,,,28/09/2026 08:02
 c30e0a3a-bf67-4e56-b8f5-b64c977cc005,fitness.mortgage,premium,242,242,high,medium,7,namesilo,,,28/09/2026 07:35
+7a4f0a76-4b2b-4c9d-9dde-f819667f6d89,gaze.mortgage,available,48.2,48.2,high,low,4,cloudflare,,,28/09/2026 19:17
 30af2683-3144-4bc2-8d00-95b99af6b312,poise.mortgage,available,65.98,76.98,high,low,5,namecheap,,,19/09/2026 17:50
 09fbb3f7-0422-44b0-b2f5-4c4a4ecd88f2,bloomfield.mortgage,premium,128.7,128.7,high,low,10,namecheap,,,25/09/2026 21:57
 df062c81-dce1-4265-9213-5403caa36e43,revocation.mortgage,available,65.98,76.98,medium,low,10,namecheap,,,19/09/2026 11:02
+2d19d403-46eb-44b7-a88c-c086c0e0790e,visits.mortgage,available,49.88,49.88,medium,low,6,spaceship,,,28/09/2026 13:15
 20beb1cb-0f6d-4aca-94a1-e1acd2e504f6,guiding.mortgage,available,14.99,81.99,high,low,7,name.com,,,14/08/2026 08:49
 a9f544f2-d705-48b3-8d30-308afda4a59a,barograph.mortgage,available,62.99,62.99,medium,low,9,namesilo,,,22/09/2026 06:59
 a288a788-2b7b-4b35-8c7d-337c795bd7ff,electrical.mortgage,available,14.99,81.99,high,low,10,name.com,,,16/08/2026 02:39
@@ -933,69 +999,3 @@ df9577bf-aa39-4a93-b24a-a2f85721d6ed,bourbon.mortgage,available,62.99,62.99,high
 03c63e37-3b2e-4f71-81fa-491698f94212,bench.mortgage,available,62.99,62.99,high,low,5,namesilo,,,23/09/2026 07:36
 f01cae70-ccab-4bd8-ae53-64d619f1450a,gruntle.mortgage,available,14.99,81.99,medium,low,7,name.com,,,18/08/2026 22:14
 6b098290-2c6d-4b49-b9e1-565fef1eae69,pigeons.mortgage,available,62.99,62.99,medium,low,7,namesilo,,,20/09/2026 07:08
-98fa8d37-b352-4941-837b-06701f30b5f2,dicks.mortgage,available,14.99,,medium,low,5,name.com,,,
-f3ea975b-d356-455d-a750-ac98ec9978cf,significance.mortgage,available,62.99,62.99,high,low,12,namesilo,,,28/09/2026 08:20
-a7afcdab-7347-47ed-af33-015bd9a03199,ano.mortgage,available,65.98,76.98,high,low,3,namecheap,,,16/09/2026 18:45
-34cf6e34-f285-454f-8ac3-e86cc08940e5,lengthwise.mortgage,available,14.99,81.99,medium,low,10,name.com,,,22/08/2026 23:38
-5da3664d-f1b6-44d5-bbd1-03ade96a346d,blase.mortgage,available,14.99,81.99,medium,low,5,name.com,,,10/08/2026 13:19
-eabf8959-44bd-4255-af55-0aa9ffdfabf1,vague.mortgage,available,62.99,62.99,high,low,5,namesilo,,,25/09/2026 23:34
-f53428d6-f60d-4d11-bbfa-ea9c1e8feeaf,cleaners.mortgage,available,62.99,62.99,high,low,8,namesilo,,,24/09/2026 15:26
-04e2a974-a828-40b4-96f9-becfbdd79b7f,lockbox.mortgage,available,14.99,,high,low,7,name.com,,,
-a746f906-46f5-4243-abe1-53c5080a9a07,depicted.mortgage,available,14.99,81.99,medium,low,8,name.com,,,14/08/2026 02:12
-37072698-9e65-44e3-9350-ef6fd3e073f3,vaulted.mortgage,available,14.99,81.99,high,low,7,name.com,,,14/08/2026 15:39
-0c59fef1-ea8e-4f3e-8ede-f4434592e2d0,seaborne.mortgage,available,62.99,62.99,medium,low,8,namesilo,,,10/09/2026 00:34
-17217f12-66e4-4f93-bbfc-d1211549f5c1,goodish.mortgage,available,14.99,81.99,medium,low,7,name.com,,,20/08/2026 16:34
-6eeda72d-0aac-4933-96d8-a97948b55cc4,factious.mortgage,available,14.99,81.99,medium,low,8,name.com,,,14/08/2026 12:34
-422a6728-0ff5-42d0-86d0-11b6d39fb4da,policy.mortgage,available,14.99,,high,low,6,name.com,,,
-e10cdc43-49fb-4f0f-b558-62363cfceef0,indic.mortgage,available,14.99,81.99,medium,low,5,name.com,,,22/08/2026 03:16
-0848bd7b-590c-41d2-8a0e-e631d771ec9a,shares.mortgage,available,14.99,,high,low,6,name.com,,,
-9eeabf97-4535-404e-90bc-c626a92c035e,truly.mortgage,available,14.99,,high,low,5,name.com,,,
-ffa37ed9-9d6c-4b8d-bccd-d4758e0d06a7,berzelius.mortgage,available,65.98,76.98,medium,low,9,namecheap,,,23/09/2026 10:24
-d070eafd-aef9-455c-9fd7-5a3053d90a2a,kerry.mortgage,available,62.99,62.99,high,low,5,namesilo,,,28/09/2026 03:22
-f67bd473-83c9-4dda-9bf4-739c1f4d2142,cucumber.mortgage,available,14.99,,high,low,8,name.com,,,
-21e76965-7a85-4eef-b277-7825e7781c93,passenger.mortgage,available,62.99,62.99,high,low,9,namesilo,,,27/09/2026 04:56
-1f333a93-62e5-4666-af68-f79032dbd191,summertime.mortgage,available,62.99,62.99,high,low,11,namesilo,,,18/09/2026 00:39
-548a9b66-3ad6-4b3d-af8f-ca2b86122a4a,cheesecake.mortgage,available,65.98,76.98,high,low,10,namecheap,,,24/09/2026 14:12
-f58bc56d-a5af-40eb-84ea-6b5a05cc7525,doxepin.mortgage,available,65.98,76.98,medium,low,7,namecheap,,,17/09/2026 06:25
-a509e92e-36fa-4a08-9da3-362cee1e1720,bismarck.mortgage,available,62.99,62.99,high,low,8,namesilo,,,23/09/2026 22:03
-b3d42b3f-0d34-42fe-9e32-8b174f5ef03b,unranked.mortgage,available,62.99,62.99,medium,low,8,namesilo,,,12/09/2026 17:44
-5253d889-285e-42d2-be3c-08a5079f0140,ruse.mortgage,available,62.99,62.99,medium,low,4,namesilo,,,20/09/2026 11:33
-51b42277-99ce-427a-a28e-d8d5474dc5fd,happens.mortgage,available,14.99,,medium,low,7,name.com,,,
-cc669fa0-3ec5-4666-95c8-333219268de9,thereabout.mortgage,available,65.98,76.98,medium,low,10,namecheap,,,16/09/2026 08:39
-db829ff2-335a-426b-a889-da8953b3002e,extreme.mortgage,available,62.99,62.99,high,low,7,namesilo,,,04/09/2026 04:46
-b69e411c-c144-48af-b2a4-06683cf56041,aneroid.mortgage,available,14.99,81.99,medium,low,7,name.com,,,
-ca152550-c0b0-4be2-899a-b6269b17810f,castled.mortgage,available,14.99,81.99,medium,low,7,name.com,,,11/08/2026 20:28
-db3194d3-7aec-44b7-b72d-f5adcc8da07f,aesthesis.mortgage,available,62.99,62.99,medium,low,9,namesilo,,,17/09/2026 13:32
-a52c1128-5490-4ed9-8d3b-380dcf6feed0,prudently.mortgage,available,62.99,62.99,medium,low,9,namesilo,,,15/09/2026 21:50
-55b5ccb5-71c4-480f-baf1-a866b7027f25,attachable.mortgage,available,14.99,81.99,medium,low,10,name.com,,,07/08/2026 15:36
-b471e57a-c90f-49ff-841e-a0ced551efee,santo.mortgage,available,62.99,62.99,high,low,5,namesilo,,,25/09/2026 11:17
-ee887afb-08f8-46a5-8297-6861ee3b08d8,heck.mortgage,available,14.99,,high,low,4,name.com,,,
-81dc3dd3-59a6-474d-b28b-89c8e956312a,subscribed.mortgage,available,62.99,62.99,high,low,10,namesilo,,,11/09/2026 00:41
-c1f3d910-64b0-4bd2-aa7e-114eb028f837,bidding.mortgage,available,62.99,62.99,high,low,7,namesilo,,,23/09/2026 13:29
-d35a1b2a-9982-4041-bcf1-849c6ad41249,quantal.mortgage,available,62.99,62.99,medium,low,7,namesilo,,,09/09/2026 07:28
-9292a1ae-59f5-46c5-a311-6bd3c1cad429,detecting.mortgage,available,14.99,,high,low,9,name.com,,,
-060acc29-445a-4cc8-a550-8acc35d3884a,carries.mortgage,available,49.88,49.88,medium,low,7,spaceship,,,28/09/2026 04:37
-d407c333-6cf8-47b9-b120-1c4fe4a1ceae,ombu.mortgage,available,65.98,76.98,medium,low,4,namecheap,,,23/09/2026 05:53
-b8612be8-f7e3-410c-a17f-a49cdd0ee9a1,hung.mortgage,available,62.99,62.99,medium,low,4,namesilo,,,27/09/2026 08:46
-f850426e-e8b5-4c17-8152-fd728d23c4b2,studies.mortgage,available,62.99,62.99,high,low,7,namesilo,,,16/09/2026 11:06
-64d6c1c6-56ae-4e20-acd3-b1350305b7b1,trouper.mortgage,available,62.99,62.99,medium,low,7,namesilo,,,22/09/2026 06:54
-671cb68c-62e8-401d-bd90-b3c0331d4f67,herrera.mortgage,available,62.99,62.99,medium,low,7,namesilo,,,28/09/2026 04:13
-e03b676a-3309-4c4f-af27-8455265bffb9,informal.mortgage,available,65.98,76.98,high,low,8,namecheap,,,25/09/2026 09:31
-ce5d5dab-c8bc-457d-842e-27af54831b6b,booked.mortgage,available,14.99,81.99,high,low,6,name.com,,,10/08/2026 19:05
-761910a3-480c-4af0-8509-af8552455223,weak.mortgage,available,62.99,62.99,high,low,4,namesilo,,,24/09/2026 04:57
-8d774ba7-5fba-47b5-8e91-291f49ef0dd8,endemic.mortgage,available,14.99,81.99,high,low,7,name.com,,,07/08/2026 19:26
-b3372b41-50fc-426b-8f4d-1a1927965600,affecting.mortgage,available,14.99,81.99,high,low,9,name.com,,,
-ae5066a6-a3e2-45fb-a223-ec5aa178e1bd,psa.mortgage,available,65.98,76.98,high,low,3,namecheap,,,28/09/2026 06:38
-5811e1b1-1479-4fa6-b05a-6ce36075cadb,network.mortgage,premium,512,512,high,medium,7,namesilo,,,27/09/2026 01:58
-0199e23d-95ce-4d7e-bc45-4c86d52e65ae,venezuelan.mortgage,available,62.99,62.99,high,low,10,namesilo,,,13/09/2026 02:04
-3afb56d3-355a-4365-82ba-608cc032befd,holey.mortgage,available,14.99,81.99,medium,low,5,name.com,,,21/08/2026 10:23
-1b0602c8-8fbe-4128-91c7-f9d84bd1bf29,congenial.mortgage,available,14.99,81.99,high,low,9,name.com,,,12/08/2026 21:38
-5eca6bc6-9ae0-48b3-9965-57e27882e0a0,mimic.mortgage,available,14.99,81.99,high,low,5,name.com,,,24/08/2026 23:29
-fda32584-8912-4fd4-8f73-020951aecfe6,cxxv.mortgage,available,14.99,81.99,medium,low,4,name.com,,,
-0b9fd878-f555-46bd-aa37-88edbfbeeee7,qualify.mortgage,premium,520,520,high,low,7,namecheap,,,28/09/2026 06:57
-429dc2c3-d1a7-4e0d-9282-d6fc93e12530,thirteen.mortgage,available,62.99,62.99,high,low,8,namesilo,,,21/09/2026 11:32
-d9f684b0-089e-42c2-af1c-7ca77ee018c4,chalkboards.mortgage,available,62.99,62.99,low,low,11,namesilo,,,19/09/2026 23:25
-f118e290-58a9-4abb-9b19-1f515efad49d,goods.mortgage,available,14.99,,high,low,5,name.com,,,
-06b0a2fd-9796-488b-8038-1a205f81145e,vocalists.mortgage,available,62.99,62.99,medium,low,9,namesilo,,,19/09/2026 21:58
-03d53b52-359d-469b-aef5-23dd37ef86c3,whispering.mortgage,available,62.99,62.99,high,low,10,namesilo,,,03/09/2026 11:10
-acf8bc4e-c166-4993-86c1-e2a4270220c7,adiposity.mortgage,available,62.99,62.99,medium,low,9,namesilo,,,17/09/2026 08:19
