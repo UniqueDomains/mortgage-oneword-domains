@@ -1,10 +1,10 @@
-# Available .MORTGAGE One-Word Domains (29,081)
+# Available .MORTGAGE One-Word Domains (31,435)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C081%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C435%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .mortgage one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **29,081 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **31,435 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 29,081 domains · **Median ask:** $70.62 · **High-demand under $2,500:** 6
+**Public extract:** 1,000 rows · **Live catalog:** 31,435 domains · **Median ask:** $70.95 · **High-demand under $2,500:** 8
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/mortgage`
 **Best for:** founders, investors, studios
 
@@ -73,17 +73,17 @@ print(df.head())
 | got.mortgage   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
 | bin.mortgage   | available | $62.99    | $62.99        | high           | low    | 3      | namesilo     |
 | oil.mortgage   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
-| bob.mortgage   | available | $62.99    | $62.99        | high           | medium | 3      | namesilo     |
+| bog.mortgage   | available | $48.20    | $48.20        | high           | low    | 3      | cloudflare   |
 | ore.mortgage   | premium   | $102.67   | $102.67       | high           | low    | 3      | spaceship    |
 | cao.mortgage   | available | $65.98    | $76.98        | high           | low    | 3      | namecheap    |
 | seo.mortgage   | premium   | $414.20   | $414.20       | high           | medium | 3      | spaceship    |
 | ccd.mortgage   | available | $49.88    | $49.88        | high           | low    | 3      | spaceship    |
 | ten.mortgage   | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo     |
-| cmc.mortgage   | available | $49.88    | $49.88        | high           | low    | 3      | spaceship    |
+| ccf.mortgage   | available | $49.88    | $49.88        | high           | low    | 3      | spaceship    |
 | tex.mortgage   | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo     |
-| din.mortgage   | available | $14.99    | $81.99        | high           | low    | 3      | name.com     |
-| laws.mortgage  | premium   | $512      | $512          | high           | low    | 4      | namesilo     |
-| est.mortgage   | available | $49.88    | $49.88        | high           | low    | 3      | spaceship    |
+| cmc.mortgage   | available | $49.88    | $49.88        | high           | low    | 3      | spaceship    |
+| mich.mortgage  | premium   | $102.67   | $102.67       | high           | low    | 4      | spaceship    |
+| din.mortgage   | available | $14.99    | $81.99        | medium         | low    | 3      | name.com     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 29,081 live domains                        |
+| 1,000-row public sample | 31,435 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 6 high-demand names under $2,500           |
+| Basic exported fields   | 8 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MORTGAGE One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MORTGAGE One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
